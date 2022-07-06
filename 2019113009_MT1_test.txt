@@ -1,0 +1,1305 @@
+3.283495847334756e-220
+['Et', 'je', 'que', ':', ':', 'que', 'que', 'que', 'pas', 'pas', 'de']  0
+['Comment', 'Lomborg', 'que', 'de', 'de', 'de', 'de']  5.483065946899793e-232
+['<title>Alex', 'Fitzgerald:', 'Miracle', 'jonglent', 'nait.', 'l’univers.</title>']  0
+['<title>Mikko', 'Hypponen:', 'nous', 'la', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'de', 'de', '<keywords>talks,', 'String', 'theory,', 'disaster', 'p...', 'p...', 'de', 'de', 'de', 'de']  1.0332112772921225e-231
+['Comment', 'que', ':', ':', ':', 'de', 'de']  0
+['<title>Gary', 'Pollan', ':', 'les', 'de', 'Stephen', 'de', 'plante</title>']  6.085166479973199e-232
+['Comment', ':', 'Lee', ':', 'de', 'de', 'de', 'de']  7.445183326929416e-232
+['Je', ':', 'que', 'que']  0
+['Mais', 'ne', 'pas', 'pas', 'pas', 'nuit-là']  0
+['Il', 'que', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Quid', 'invente']  1.1200407237786664e-231
+['Alors', 'il', 'chauffeur', ':', 'taxi', 'demandait,', 'de', 'de', 'demandaient,', 'demandaient,', 'de', 'de']  0
+['<title>Mikko', 'Hypponen:', ':', 'de', 'de', 'de', 'trahi', 'trahi', 'Prix', ':', 'de', 'de', 'de', 'de', 'réagir.</title>']  9.33155372164043e-232
+['Je', 'que', 'que', 'que', 'de', 'de', 'de']  3.0963867043779474e-232
+['<title>Janet', 'Jorgensen', ':', ':', 'Biohacking', 'Prix', 'Prix', 'Prix', 'affecte-t-elle', 'affecte-t-elle', 'de', 'de']  2.5802019721284275e-232
+['Je', 'est']  0
+['Je', 'je', 'vous', 'que', 'que', 'que', 'Loony', 'Tunes', 'Tunes', 'de', 'de', 'je', 'je', 'je', 'je', 'poursuit', 'que', 'de', 'Bip', 'Bip', 'Bip', '<talkid>1095</talkid>']  0
+['Et', 'je', 'que', 'pas', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'de']  3.811845339571429e-232
+['Et', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  6.517294086106268e-232
+['<title>Maira', 'Kalman,', 'Miracle', 'jonglent', 'nait.', 'l’univers.</title>']  0
+['Et', 'pourquoi', 'que', 'que', 'que', 'que', 'pas', 'pas', 'pas', 'futés', '?']  0
+['Comment', 'une', 'une', 'une', 'à', 'de', 'de', 'Tunes', 'Tunes', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  1.1640469867513693e-231
+['Et', 'nous', 'a', 'de', 'de', 'à', 'de', 'de', 'la', 'de', 'de', 'de', 'la', 'la', 'de', 'de', 'de']  8.972141065609098e-232
+['Et', 'je', 'je', 'vous', 'vous', 'Loony', 'Loony', 'Tunes', 'Tunes', 'Tunes', 'vous', 'pathétique', 'pathétique', 'que', 'que', 'que', 'de', 'de', 'Bip', 'Bip', 'Est-ce', 'est-ce', 'nous', 'les', 'de', 'de', 'de', 'de', 'vérrouillés,', 'vérrouillés,', 'vérrouillés,', 'bannis', 'de', 'tués']  7.544641259221007e-232
+['Les', 'Tulley', ':', 'les', 'de', 'de', 'de', 'de', 'plante</title>']  0
+['Nous', 'avons', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', "Qu'en", 'invente']  8.147480343967206e-232
+['Comment', 'Seung:', 'diffuser', ':', "n'utilises"]  0
+['Je', 'pourquoi', 'que', 'que']  0
+['BF:', ':', "J'ai", 'instant.']  0
+['Et', 'je', 'je', 'vous', 'vous', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'que', 'que', 'pas', 'de']  0
+['Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'que', 'que', 'de', 'de', 'de', 'de', 'Et', ':', ':', ':', ':', 'que', 'de', 'de', 'de', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'Comment', 'Debate,', 'Raspyni', 'jonglent', 'de', 'sacrifier?']  8.412065649527267e-232
+['Je', 'je', 'que', 'seringues', 'de', 'de', 'sacrifier?']  2.3987582773118944e-232
+['<title>Mitchell', 'Besser', 'les', 'les', 'de', 'trahi', 'trahi', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'de']  9.257324954728539e-232
+['Et', 'nous', 'a', 'arrêtions', 'de', 'de', 'de', 'débattre', 'débattre', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'hanche.', '<title>Maira', 'Kalman,', '+', 'de', 'illustrée</title>']  0
+['<title>Micheal', 'Pollan', ':', 'les', 'de', 'de', 'de', 'de', 'de', 'plante</title>']  5.622528097505664e-232
+['<title>Sebastian', 'Seung:', 'Miracle', "j'obtiens?", 'nait.', 'danse?"']  0
+['Nous', 'avons', 'épuisés,', 'pas', 'de', 'cognant', 'nous', 'nous', 'nous', 'nous', 'et', 'et', 'et', 'de', 'de']  5.978374711694967e-156
+['Nous', 'Besser', ':', 'vœu', 'vœu', 'trahi', 'trahi', 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'de']  5.94386522791812e-232
+['Nous', 'avons', 'a', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'Tosca', 'Tosca', 'Tosca', 'Tosca', 'Et', 'je', 'vous', 'pas', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'pas']  1.1121803032788522e-231
+['Nous', 'avons', 'a', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Comment', 'Steel', ':', 'de', 'de', 'de', 'façonne']  0
+['<keywords>talks,', 'String', 'Comment', ':', 'TED', 'TED', ':', 'de', 'de', 'de', 'de', 'de']  5.025547213910947e-232
+['Et', 'nous', 'nous', 'de', 'de', 'de', 'de', 'débattre', 'débattre', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<speaker>Eric', 'McCarthy</speaker>']  0
+['Et', 'nous', 'que', 'de', 'de', 'que', 'recul', 'recul', 'que', 'que', 'que', 'que', 'et', 'de', 'de', 'de']  9.109159947227211e-232
+['Mais', 'nous', 'nous', 'que', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'de', '<speaker>Bruce', 'Whitacre</speaker>']  1.0377133938315695e-231
+['Mais', 'Shaw', ':', 'pas', 'nait.', 'imperméable</title>']  0
+['Et', 'la', 'les', 'de', 'de', 'de']  8.088200202498789e-233
+['<speaker>Derek', 'Paravicini', ':', 'Adam', 'Adam', 'Ockelford</speaker>']  0
+['Comment', 'la', 'Lee', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  5.474320712955125e-232
+['Et', 'Matreyek', '!']  0
+['Et', 'nous', 'a', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', '?']  8.972141065609098e-232
+['Je', 'je', 'que', 'que', 'de', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'vous?"', 'de', 'culturellement']  9.257324954728539e-232
+["Qu'est-ce", 'que', '?']  0
+['Et', 'je', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'que', 'vous', 'de', 'Médecine', '<speaker>Bruce', 'McCarthy</speaker>']  8.726094729337945e-232
+['<speaker>Dong', 'que', 'de']  1.2623117842123626e-234
+['La', 'que', ':', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '?', '?']  0
+['Et', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'éternelle,', 'éternelle,', 'éternelle,', 'éternelle,', 'éternelle,', 'éternelle,', 'éternelle,', 'que', 'que', 'que', 'que', 'pas', 'pas', 'pas', 'de', 'de']  0
+['Il', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de']  6.395424291914012e-232
+['Mais', 'que', 'vous', 'pas', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas']  0
+['Je', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  1.700973974150373e-232
+['Il', 'y', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  9.893133360884868e-232
+['Je', 'je', 'je', 'que', 'que', 'que', '"Jamie,', '"Jamie,', 'PLM,', 'que', 'que', 'que', 'je', 'je', 'je', 'que', 'de', 'de', 'de', 'Comment', 'Kalman,', '?']  0
+['Comment', "qu'attendons-nous"]  0
+["Qu'est-ce", 'que']  0
+['Certains', ':', ':', 'de', 'de', 'de', 'la', 'la', 'la', 'la', 'et']  0
+['Il', 'nous', 'a', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Les', 'les', 'de', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'commun']  7.544641259221007e-232
+['<title>Mikko', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'la', 'collectés', 'collectés', 'collectés', 'collectés', 'la', 'la', 'de', 'de', 'de', 'de', 'Qui', 'Rhim']  0
+['Les', 'que', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  9.257324954728539e-232
+['Et', 'que', 'que', 'pas', 'que', 'que', 'que', 'que', 'ne', 'pas', 'pas', 'de']  1.5649716043468929e-232
+['Et', 'que', 'dit,', 'que', ':', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de']  6.18247445167938e-232
+['Et', ':', ':', ':', 'que', 'de', 'et', 'et', 'et', 'de', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', "Qu'est-ce", 'que']  0
+['Comment', 'que', 'que', 'que', 'de', 'de', 'de']  0
+['Je', ':', 'que', 'que', 'de', 'de']  7.060301868108111e-232
+['<title>Sebastian', 'Debate,', 'Raspyni', 'jonglent', 'propres', 'sacrifier?']  0
+['<title>Mikko', 'Hypponen:', ':', 'JR', ':', 'trahi', 'trahi', ':', ':', ':', ':', ':', 'de', 'de', 'de']  0
+['Et', 'que', 'que', 'pas', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'pas', 'pas', 'de', 'de', 'Que', 'survivre?']  0
+['Les', 'nous', 'de', "m'enlever", 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'là?"']  9.594503055152632e-232
+['<keywords>talks,', 'Killingsworth:', 'Lee', 'disaster', 'p...', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'que', 'que', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<translator']  3.4867425203417755e-232
+['<title>Mikko', 'Hypponen:', 'que', 'nous', 'nous', 'trahi', 'trahi', 'nous', 'nous', 'nous', 'de', 'de', 'de', 'biote,', 'de', 'de', 'de', 'de']  8.844844403089351e-232
+['Et', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de', 'de', 'de', 'de', 'Les', 'avons', 'a', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'de', 'de', 'de']  7.437597952034396e-232
+['Et', 'que', 'a', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', '<talkid>158</talkid>']  8.614911585158347e-232
+['<keywords>talks,', 'Raptopoulos:', 'Routes', 'bloquées', 'culture,', 'souhaits']  0
+['Et', 'vous', 'que', 'pas', 'ce', '"Pourquoi', 'que', 'que', 'que', 'de', '?"']  3.996150654699218e-232
+['Mais', 'ne', 'a', 'pas', 'de', 'de', 'le', 'le', 'le']  4.832402486973384e-232
+['Pourquoi', 'que', "l'ai-je", 'de', 'de', 'de', 'de', 'de', 'de', 'de', '?']  7.103899986921084e-233
+['Et', 'je', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  8.412065649527267e-232
+['Et', 'nous', 'a', 'vieillissons,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  1.2035620841904511e-231
+['Comment', ':', ':', 'que', 'de', 'de', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de']  5.483065946899793e-232
+['Vous', "d'homme", 'précisément,', ':', ':', 'vous', 'vous', 'vous', 'de', 'de', '?']  0
+['Vous', 'que', ':', ':', ':', 'que', 'que', 'que', 'pas', 'pas', '?']  0
+['Et', 'fait-elle', 'que', 'que', 'de', 'de', 'tendent', 'tendent', 'tendent', 'perpétuation', 'perpétuation', 'perpétuation', 'perpétuation', 'perpétuation', 'biote,', 'biote,', 'de', 'de', 'détruire?', '<speaker>Paul', 'Root', "N'importe"]  1.1070900996592687e-231
+['Et', 'nous', 'que', 'de', 'que', 'de', 'de', 'de', 'de', 'de', 'que', 'que', 'de', 'de', 'de']  0
+['Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', '<speaker>Laura', 'Stuart</speaker>']  0
+['Goûtez', '!']  0
+['Et', 'que', 'que', 'que', 'de', 'de', 'de', 'la']  1.0832677820940877e-231
+['Comment', ':', ':', ':', 'de', 'de', 'de']  2.380241534791089e-234
+['Comment', ':', 'une', 'une', 'de', 'de', 'de', 'dénouement', 'dénouement', 'dénouement', 'de', 'et', 'et', 'atteindre,', 'atteindre,', 'et', 'de', 'de', '<title>Andreas', 'a', ':', 'de', 'de', 'de', 'de', 'de', 'de', 'alimentation</title>']  0
+['<keywords>talks,', 'String', 'theory,', 'TED', 'TED', 'TED', 'TED', 'TED', 'de', 'de', 'de', 'de', 'de', 'de']  9.418382295637229e-232
+['<title>Mikko', 'Hypponen:', ':', 'de', 'de', 'de', 'de', 'Prix', 'Prix', 'de', 'de', 'et', 'et', 'de', 'de', 'réagir.</title>']  0
+['Et', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'poupée.']  0
+['Mais', 'ne', 'a', 'pas', 'pas', 'de', 'de', 'de', 'de', 'que', 'que', 'que', 'que', 'de', 'de', 'de']  0
+['Mais', 'barons', 'nous', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'lentilles', 'lentilles', 'lentilles', 'contact,', 'contact,', 'contact,', 'de', 'de', 'de']  8.81787932857899e-232
+['Et', 'que', 'de', 'de', 'viser', 'de', 'de', 'de', 'de', 'médiocrité', '?']  0
+['Mais', 'Hypponen:', ':', ':', ':', ':', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', '?']  4.497378210201465e-232
+['Et', 'String', 'que', 'état,', 'Ai-je', 'Ai-je', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Les', 'y', 'a', 'adore.', 'de', 'de']  8.319100378795605e-232
+['Je', 'je', 'que', 'pas', 'de', 'que', 'que', 'que', 'de', 'de']  1.2183324802375697e-231
+['Et', 'je', 'vous', 'vous', 'vous', 'vous', 'demandions', 'demandions', 'vous', 'vous', 'vous', 'vous', 'vous', 'que', 'que', 'de', 'de', 'de', '<talkid>826</talkid>']  0
+['<title>Mikko', 'Hypponen:', ':', 'JR', "j'entendis", '"Est-ce', 'trahi', 'trahi', 'et', 'plait,', 'plait,', 'plait,', 'et', 'Ramu.', 'Ramu.', 'peux-tu']  4.580373270253951e-232
+['Il', 'que', ':', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'collectés', 'collectés', 'collectés', 'la', 'de', 'de', 'de', 'de', 'analysés', 'Merci.', 'McCarthy</speaker>']  1.012071042130996e-231
+['Et', 'nous', 'nous', 'nous', 'de', 'Ai-je', 'Ai-je', 'nous', 'débattre', 'de', 'de', 'de', 'de', 'et', 'qui', 'qui', 'de', 'de', 'de', 'de', 'Et', 'que', '?']  1.0948551819675659e-231
+['Comment', 'que', 'que']  0
+['Et', 'nous', 'nous', 'que', 'que', 'Ai-je', 'Ai-je', 'Ai-je', 'débattre', 'de', 'de', 'de', 'de', 'et', 'de', 'chirurgie', 'de', 'de', 'de']  6.363181301595414e-232
+['<title>Mark', 'Steffen', ':', 'de', 'de', 'de', 'villes</title>']  8.560055379685596e-233
+['Et', 'nous', 'que', 'de', 'de', 'de', 'de', 'primitifs,', 'de', 'de', '?', '?']  0
+['<title>Michael', 'Silver', ':', "l'ingéniosité", 'Musique', 'la', 'comportementales', 'peuvent-elles', 'de', 'de', '?</title>', '?</title>']  9.788429383461836e-232
+['La', 'ne', 'a', 'pas', 'de', 'de', 'de', 'de', 'de']  1.590793012977122e-232
+['<title>Mikko', 'Hypponen:', 'que', ':', "j'entendis", ':', ':', ':', ':', ':', ':', ':', ':', 'qui', 'que', 'chirurgie', 'de', 'de', "C'est"]  8.726094729337945e-232
+['Et', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', ':', ':', 'que', 'de', 'de', 'de']  9.257324954728539e-232
+['<title>David', 'Logan:', 'des']  0
+['<title>Jennifer', 'Killingsworth:', 'Lee', 'disaster', 'de', 'de', 'de', 'de', 'de', 'Tso</title>']  0
+['Est-ce', 'que', 'a', 'de', 'de', 'de', 'de', 'la', 'la', 'la', 'la', 'la', 'la', 'de', 'de', 'de']  5.3197886069458254e-232
+['<title>Mikko', 'Hypponen:', ':', ':', 'de', 'la', 'trahi', 'et', 'et', 'et', 'la', 'de', 'et', 'et', 'de', 'de', 'de', 'Et', 'que', 'a', 'de', 'de', 'de', 'sous-jascente']  1.2308298330855597e-231
+['Je', 'une', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Alors', 'Killingsworth:', 'que', 'de', 'de', 'de', 'de', 'de', 'croisiez']  2.6401949804733037e-232
+['Et', 'il', 'que', 'état,', 'que', 'Ai-je', 'que', 'que', 'que', 'que', 'article', 'article', 'Journal', 'Journal', 'Journal', 'Médecine', 'Médecine', '<title>Janet', 'guérison', ':', 'de', 'de', 'de', 'Prix', 'Prix', 'de', 'de', 'de', 'de', 'de', 'hypothèse</title>']  0
+['Et', 'que', 'que', 'que', 'que', 'à', 'à', 'à', 'de', 'de', 'qui', 'qui', 'qui', 'qui', 'de', 'de', 'de']  0
+["Qu'est-ce", 'que', ':', 'pas', 'de', 'de']  2.975482570578e-233
+['<translator']  0
+['<title>Mikko', 'Hypponen:', ':', ':', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'la', 'la', 'et', 'et', 'et', 'et', 'de', 'de', 'réagir.</title>', "C'est", 'étape:', "d'Adam", 'Directeur', 'nait.', 'rentabilité.']  8.147480343967206e-232
+['Et', 'la', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'handicapés', 'handicapés', 'handicapés', 'handicapés', '<title>Jennifer', 'String', ':', 'Comment', 'p...', 'de', 'Comment', 'Comment', 'de', 'de', 'de']  1.0832677820940877e-231
+['Mais', 'ne', ':', ':', ':', 'demandait,', ':', 'que', 'que', 'pas', 'de']  8.34060433022243e-232
+['Et', 'comment', 'que', 'que', 'que']  0
+['Je', ':', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', '<speaker>Leymah', 'Rhim']  4.288144342392661e-232
+['Les', 'Besser', 'a', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de', 'et', 'et', 'et', 'et', 'de', 'de', 'de']  8.844844403089351e-232
+['Comment', 'étape:', 'le', "j'obtiens?", 'nait.', 'Youpi']  2.1986007635391227e-232
+['Ils', 'ont', 'les', 'les', 'de', 'de', 'de']  0
+['Je', 'une', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'nous', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'que', 'que', 'que', 'de', 'de', 'de', 'de', '<speaker>Eric', 'Kamler</speaker>']  8.683339016040761e-232
+['<title>Mikko', 'Hypponen:', 'nous', 'de', 'Ai-je', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Et', 'la', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  6.890621748056459e-232
+['Les', 'que', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  1.012071042130996e-231
+['Et', 'que', 'que', 'que', 'que', 'à', 'de', 'de', 'de', 'de', 'de', 'lentilles', 'lentilles', 'lentilles', 'contact,', 'contact,', 'de', 'de', 'de', 'de']  8.614911585158347e-232
+['<title>Andreas', 'Schleicher:', ':', 'des', 'de', 'de', 'de', "d'algues"]  1.0832677820940877e-231
+['Alors', 'Krane:', '"Était-il', 'de', 'de', 'de', 'France?"']  1.1200407237786664e-231
+['Mais', 'nous', 'a', 'de', 'de', 'confession', 'et', 'et', 'de', 'fan', 'fan', 'fan', 'baseball!']  0
+['Et', 'une', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  9.319361112192219e-232
+['Mais', 'ne', 'pas', 'pas', 'pas', 'pas', 'pas', 'pas']  0
+['Et', 'que', 'que', 'pas', 'pas', '?']  0
+['Je', ':', 'une', 'état,', 'état,', 'de', 'de', 'dénouement', 'dénouement', 'dénouement', 'dénouement', 'dénouement', 'atteindre,', 'atteindre,', 'atteindre,', 'atteindre,', 'atteindre,', 'de', 'de']  0
+['Je', 'je', 'vous', 'état,', 'que', 'de', 'de', 'de', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'Et', 'que', 'a', 'pas', 'de', 'de']  9.788429383461836e-232
+['Pourquoi', 'Kalman,', 'surgiraient?', "j'obtiens?"]  0
+['<title>Mikko', 'Hypponen:', 'a', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'la', 'la', 'la', 'et', 'et', 'de', 'de', 'de', 'de']  1.0244914152188952e-231
+['Et', 'nous', 'nous', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'hanche.', "C'est", 'la', 'la', 'de', 'de', 'sacrifier?']  0
+['<title>Mikko', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'la', 'la', 'collectés', 'la', 'et', 'de', 'de', 'de', 'réagir.</title>', 'réagir.</title>']  0
+['Et', 'la', 'nous', 'les', 'de', 'de', 'de', 'débattre', 'débattre', 'et', 'de', 'et', 'et', 'et', 'chirurgie', 'chirurgie', 'de', 'de', 'hanche.', '<title>Nate', 'Silver', ':', ':', 'de', 'de', 'la', 'de', 'de', 'de', 'fatales</title>']  1.1008876702055895e-231
+['<title>Mikko', 'Hypponen:', 'nous', 'nous', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'de']  9.893133360884868e-232
+['<title>Mikko', 'Hypponen:', 'Hypponen:', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'collectés', 'collectés', 'collectés', 'collectés', 'le', 'le', 'analysés', 'réagir.</title>', 'réagir.</title>', 'Comment', 'que', 'que', 'que', 'de', 'de', 'opéra', 'de', 'la', 'de', 'de', 'de', 'de']  0
+['Et', 'nous', 'que', 'que', 'que', 'de', 'Loony', 'Tunes', 'de', 'de', 'de', 'de', 'de', 'contact,', 'contact,', 'de', 'de', 'de', 'Bip', 'Bip?', 'Juste', ':', 'parallèles', 'de', 'de']  1.072268715173723e-231
+['Et', 'que', 'dit,', 'que', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'Comment', 'Steel', 'Lee', 'de', 'de', 'de', 'de', 'de', 'de', "l'humanité</title>"]  9.418382295637229e-232
+['Il', 'y', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  2.415892461334762e-78
+['<translator']  0
+['Comment', 'String', 'Comment', 'Comment', 'p...', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'la', 'de', 'marchant', 'de', 'demandant', 'demandant', 'demandant', 'cherches,', 'de', 'cherches', 'cherches', 'de', 'de']  0
+['Mais', 'Kalman,', 'le']  2.4586476325348836e-234
+['Les', 'étape:', 'ressembleraient', 'monsieur,', 'nait.']  1.6488337128931635e-232
+['Et', 'que', 'anticorps', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'nous', 'nous', 'anticorps', 'anticorps', 'de', 'de', 'de', 'de', '?', '?']  8.231055179516831e-232
+['Et', 'que', 'que', 'pas', 'que', 'que', 'pas', 'pas', '?', '?']  4.165271260927111e-232
+['Mais', 'dirent', ':', 'pas', 'pas', 'de', 'de']  1.3140224370531421e-232
+['Comment', 'Seung:', 'que', "j'obtiens?"]  0
+['Mais', 'que', 'a', 'que', 'que', 'que', 'que', 'que', 'et', 'et', 'et', 'et', 'de', 'de', 'de', 'de']  6.570351225189682e-232
+['Comment', 'Killingsworth:', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Leslie', 'Logan:', '"Kiteflyer\'s']  0
+['Comment', 'pleures-tu?"', 'ressemblent-ils', 'membre?']  0
+['Il', 'que', ':', ':', 'pas', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de']  9.418382295637229e-232
+['<keywords>talks,', 'culture,', ':', ':', 'global', 'global']  0
+["Qu'est-ce", 'ne', 'pas', 'pas']  0
+['Je', 'je', 'que', 'que', 'que', 'que', 'de', 'que', 'dénouement', 'dénouement', 'que', 'que', 'atteindre,', 'atteindre,', 'atteindre,', 'de', 'de']  0
+['Mais', 'y', 'pas', 'prof?']  0
+['Je', 'Gehry,', 'que', 'de', "n'utilises"]  0
+['<title>Maira', 'Dunham-Jones', ':', 'Rénover', 'le', 'banlieues</title>']  0
+['Comment', 'que', 'le']  0
+['Et', 'une', 'que', 'que', 'de', 'de', 'de', 'de', 'dénouement', 'dénouement', 'de', 'perpétuation', 'perpétuation', 'atteindre,', 'de', 'de', 'de', 'de', 'Et', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Il', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Les', 'médecine,', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'de', 'de', '<speaker>Michael', 'McCarthy</speaker>']  0
+['Leslie', "s'appelaient", 'des', 'de', 'de', 'King?']  0
+['<title>Jonathan', 'Pollan', ':', 'les', 'de', 're-câbler', "d'algues"]  5.671230073726419e-234
+['Et', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<title>Mark', 'Krane:', ':', 'de', 'de', 'de', 'de']  0
+['Comment', 'la', 'procurent-ils', 'de', 'de']  0
+['Mais', 'question', '68%', "m'enlever", 'sait-on', 'de', '"Etait-ce', '"Etait-ce', "s'arrêtera", 'fini?', 'bibliothèque?']  1.0003688322288243e-231
+['Comment', 'que', 'que', 'que', 'de', 'de', 'la', 'de', 'la']  0
+['Et', 'je', 'que', 'état,', 'de', 'Ai-je', 'de', 'de', 'dénouement', 'de', 'de', 'Journal', 'Journal', 'Journal', 'Médecine', 'Médecine']  0
+['<title>Jennifer', 'pouvons-nous', 'que', 'de', 'de', 'de', 'de', 'la', 'de', 'de']  0
+["C'est", 'Hy.']  0
+['Et', 'je', 'a', 'de', 'de', 'de', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de']  0
+['<title>Neil', 'Burgess', ':', ':', 'Biohacking', 'demandait,', 'de', 'nous', 'nous', 'de', 'de', 'de']  0
+['Quelles', 'Pollan', ':', 'les', 'de', 'de', 'de']  0
+["Qu'est-ce", 'que', ':', 'pas', 'de', 'nuit-là']  0
+['<title>Les', 'Debate,', 'Raspyni', 'fuites', 'nait.', 'connectome</title>']  0
+['Les', 'y', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de']  8.660292157856052e-232
+['<title>Doris', 'Rosling', 'Goodwin', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'présidents</title>', 'présidents</title>']  1.293139394617235e-233
+['Je', 'je', 'vous', 'vous', 'vous', 'vous', 'demandions', 'demandions', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de']  9.109159947227211e-232
+['Et', 'que', 'que', 'de', 'de', 'de', 'de']  2.028859916101751e-233
+['Et', 'la', 'nous', 'de', 'de', 'de', 'de', 'débattre', 'débattre', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Goûtez', '!']  7.63049244569146e-232
+['Et', 'la', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Et', ':', ':', ':', 'Meetup,', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'plonge', 'plonge', 'que', 'que', 'que', 'de', 'de', 'Les', 'la', 'tournent', 'de', 'de', 'ancrer', 'de', 'et', 'et', 'et', 'et', 'et', 'de', 'de']  6.784338172413661e-232
+['Comment', 'Frères', 'Raspyni', 'jonglent', "n'utilises"]  0
+['Comment', 'est-ce', 'la', 'de', 'de', 'n’ont-ils', 'n’ont-ils', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'je', 'que', 'que', 'que', ':', ':', 'que', 'que', 'que', 'que', 'vous?"', 'vous?"', 'de']  8.164587463486296e-232
+['<title>Mikko', 'Hypponen:', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Etc.']  0
+['<title>Mikko', 'String', 'Laptop', 'TED', 'TED', ':', ':', ':', ':', ':', ':', ':', 'de', 'de', 'de']  9.257324954728539e-232
+['Le', 'les', 'les', 'de', 'de', 'de', 'de', 'de', 'la']  1.0518351895246305e-231
+['<title>Nate', 'Iwasa:', ':', 'la', 'de', 'Prix', 'Prix', 'Prix', 'de', 'nous', 'et', 'et', 'de', 'de']  6.068009947958691e-232
+['Je', 'pourquoi', 'que', 'que', 'que', 'que', 'que', 'de']  2.417097137022882e-232
+['DH', ':', ':', ':', 'de', 'de', 'de', 'avocat,', 'avocat,']  3.4625676872110776e-232
+['<keywords>talks,', 'je', ':', ':', ':', 'que', 'que', 'de', 'de']  2.481038162867807e-232
+['Et', 'que', 'a', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'et', 'et', 'et', 'et', 'de', 'de', 'de']  8.278703315138962e-232
+['Et', 'que', 'durera', 'pas', 'pas', 'de']  0
+['Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'article', 'Journal', 'Journal', 'Journal', 'de', 'de']  8.972141065609098e-232
+['Et', 'que', 'que', 'coupes', 'de', 'étiqueté!']  0
+['<translator']  0
+['<translator']  0
+['<translator']  0
+['Et', 'une', 'que', 'état,', 'de', 'de', 'de', 'de', 'dénouement', 'dénouement', 'dénouement', 'de', 'atteindre,', 'atteindre,', 'atteindre,', 'de', 'de', 'de', 'de', 'Et', 'est', '!']  8.412065649527267e-232
+['<title>Mikko', 'Hypponen:', ':', 'de', "j'entendis", 'trahi', 'trahi', 'trahi', 'trahi', 'de', 'de', 'de', 'de', 'de', 'chirurgie', 'chirurgie', 'de', 'de']  0
+['Je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de']  8.769105200491155e-232
+['Et', 'la', 'la', 'état,', 'de', 'de', 'demandions', 'et', 'et', 'coïncidences', "d'Ambrogio", "d'Ambrogio", 'Lorenzetti', 'peignait', 'peignait']  0
+['<title>Mikko', 'Hypponen:', 'a', 'de', 'de', 'de', 'trahi', 'trahi', 'et', 'et', 'et', 'et', 'et', 'et', 'chirurgie', 'de', 'de', 'hanche.']  0
+['Je', 'je', 'que']  0
+['Et', 'que', 'dîtes-vous', 'que', 'de', 'de', 'de', 'demanderont,', 'de', 'de', 'de', 'de']  6.452930355425922e-232
+['BF', ':', '?']  0
+['Je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'dénouement', 'que', 'que', 'que', 'que', 'atteindre,', 'de', 'de', 'de']  0
+['<keywords>talks,', 'Autism', 'Lee', 'disaster', 'p...', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'je', 'que', 'que', 'que', 'que', '"Jamie,', 'PLM,', 'PLM,', 'que', 'que', 'que', 'que', 'atteindre,', 'atteindre,', 'atteindre,', 'de', 'de', '<speaker>Jae', 'Rhim']  0
+['Je', ':', ':', 'seringues', 'positive</title>', 'world']  3.624879844624495e-232
+['Et', 'que', 'que', 'de', 'de', 'de', 'de', 'de']  3.5168555826665276e-232
+['Je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'de']  3.913900105556162e-232
+["C'est", '!']  0
+['Et', 'que', 'que', 'que', 'que', 'que', 'que', 'de']  0
+['Et', 'pourquoi', 'que', 'que', 'de', '?']  0
+['Comment', 'pourquoi', 'que']  9.044859170944218e-235
+['Mais', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'que', 'que', 'que', 'que', 'que', 'pas', 'pas', 'pas', 'pas', 'Quid']  1.0003688322288243e-231
+['Et', '!']  0
+['Comment', 'Steel', 'Lee', 'de', 'de', 'de', 'façonne', 'villes</title>']  0
+['<title>David', 'Logan:', ':', 'Rénover', 'de', 'banlieues</title>']  0
+['Nous', 'Pollan', ':', 'les', 'de', 'de', 'de', 'plante</title>']  1.0832677820940877e-231
+['Nous', 'avons', 'les', 'les', 'de', 'de', 'de', 'de', 'textes', 'de', 'de', 'suspecter', 'candidature']  0
+['"Étant', 'One', 'que', 'état,', 'état,', 'Ai-je', 'de', 'dénouement', 'dénouement', 'dénouement', 'dénouement', 'atteindre,', 'atteindre,', 'atteindre,', 'atteindre,', 'atteindre,', 'de', 'de']  0
+['Et', 'la', 'que', 'de', 'de', 'de', 'de', 'Tunes', 'de', 'de', 'de', 'de', 'lentilles', 'contact,', 'contact,', 'de', 'de', 'de', 'de', 'Bip']  0
+['Et', 'que', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'que', 'que', 'que', 'que', 'pas', 'pas', 'pas', 'pas', '<speaker>Rachelle']  0
+['Comment', 'que', 'que', "j'obtiens?", 'apprend?".']  0
+['Comment', 'Kalman,', 'procurent-ils', "j'obtiens?", 'illustrée</title>']  0
+['<speaker>Eric', 'Whitacre</speaker>']  0
+['<title>Mikko', 'Hypponen:', ':', ':', 'de', 'de', 'trahi', 'de', 'de', 'de', 'de', 'collectés', 'collectés', 'collectés', 'la', 'la', 'la', 'de', 'de', 'de', 'de', 'de', "Qu'en", 'invente']  0
+['Tard', 'que', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'qui', 'qui', 'qui', 'qui', 'pas', 'pas', 'de', 'de', 'de', 'Et', 'la', 'les', 'de', 'de', 'de']  0
+['Et', 'une', 'erectus', 'de', 'de', 'de', 'de', 'Tunes', 'Tunes', 'de', 'de', 'lentilles', 'lentilles', 'lentilles', 'contact,', 'contact,', 'de', 'de', 'Bip', 'Bip', 'Vous', 'ne', 'a', 'pas', 'de', 'de', 'de', 'de', 'de', '?']  0
+['Et', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '?']  0
+['Nous', 'Dyson', ':', 'les', 'de', 'pommes.', 'de', 'de', 'le']  2.362550272583459e-232
+['Nous', 'Pollan', ':', 'les', 'de', 'de', 'de', 'de', 'de', 'de']  3.768893293156672e-232
+['Nous', 'Logan:', ':', 'le', 'de', 'banlieues</title>']  5.619960642505782e-234
+['Nous', 'survivre?', 'réconcilier']  1.342376123197744e-232
+['Et', 'que', 'dîtes-vous', ':', 'de', 'de', 'que', ':', 'que', 'de', 'de']  0
+['Et', 'je', 'que', 'que', 'que', 'de', 'que', ':', ':', 'que', 'que', 'que', 'de', 'de']  0
+['Comment', 'Voyez-vous', 'dîtes-vous', 'convaincus', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'de']  8.660292157856052e-232
+['Et', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'tellement!']  8.972141065609098e-232
+['Et', 'je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'pas', 'pas']  0
+['Vous', 'Lee:', ':', 'pas', 'pas', 'astrophysicien,']  0
+['Nous', 'Hypponen:', 'les', 'les', 'TED', 'trahi', 'trahi', 'trahi', 'approuvez', 'approuvez', 'approuvez', 'collectés', 'collectés', 'collectés', 'et', 'et', 'et', 'analysés', 'analysés', 'analysés', '<speaker>Eric', 'Mahlasela</speaker>']  0
+['Il', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'chirurgie', 'chirurgie', 'chirurgie', 'peux-tu', 'hanche.']  6.3376079519668574e-232
+['<title>Jennifer', 'Killingsworth:', 'Lee', 'bloquées', 'de', 'de', 'de', 'Hawking', 'ouvrières', 'Tso</title>']  0
+['<title>Mikko', 'Hypponen:', 'nous', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'de', 'de', 'de', 'la', 'la', 'chirurgie', 'de', 'de', 'Comment', 'String', 'Laptop', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Il', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'qui', 'qui', 'réparation', 'réparation', 'de', 'de', 'de', 'de', 'Pourquoi', 'Kalman,', 'surgiraient?', 'micro-algues', 'illustrée</title>']  7.784451369270533e-232
+['Mais', 'que', 'vous', 'pas', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', '?']  9.257324954728539e-232
+['Et', 'je', 'que', 'état,', 'de', 'de', '"Jamie,', 'dénouement', 'dénouement', 'dénouement', 'dénouement', 'atteindre,', 'atteindre,', 'atteindre,', 'Journal', 'Médecine', 'Médecine', 'Comment', 'pouvons-nous', 'dîtes-vous', 'Comment', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  7.878140622740692e-232
+['La', 'nous', 'les', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Vous', 'que', 'de', 'le', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  6.789325355819668e-233
+['Mais', 'ne', 'a', 'pas', 'pas', 'que', 'de', 'de', 'de', 'de', 'que', 'que', 'pirates', 'de', 'de', 'de']  0
+["C'est", '!']  0
+['Comment', 'savons-nous', 'Comment', 'fuites', 'de', 'de']  0
+['Et', 'que', 'que', 'de', '?', '?']  0
+["C'est", '!']  0
+['Qui', '!']  0
+['Comment', 'la', 'de', 'formidable,', 'sont-elles', 'de', 'de', 'de', 'de', 'de']  0
+['<speaker>Gary', 'Rhim']  0
+['Et', 'ce', 'pas', 'pas', 'de']  4.835285063277543e-233
+['<title>Renny', 'Silver', ':', ':', 'astuces', 'ajustables', 'ajustables', 'de', 'objet</title>']  0
+['Est-ce', 'nous', 'nous', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'de', 'de', 'analysés', 'de']  8.614911585158347e-232
+['Mais', 'que', 'vous', 'que', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'pas', 'pas', 'pas', "C'est", '!', '!']  9.893133360884868e-232
+['Les', 'que', ':', 'de', 'annuel', 'de', 'de', 'de', 'de', 'de', 'CO2?']  5.294085324363193e-232
+['Et', 'fait-elle', 'que', 'de', 'de', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Les', 'Rhodes', 'a', 'soucie', 'de', 'de', 'de', 'Oakley', 'Oakley', 'de', 'de', 'de', 'Maria', 'Callas', 'Callas', 'et', 'et', 'de', 'Tosca', 'Tosca', 'de']  0
+['Comment', 'la', 'Lee', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<title>Mikko', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'la', 'collectés', 'collectés', 'la', 'la', 'de', 'de', 'de', 'réagir.</title>', 'réagir.</title>', '<title>Maira', 'Kalman,', '+', 'traffic', 'illustrée</title>']  0
+['<keywords>talks,', 'Hill', 'Routes', 'bloquées', 'adoptez', 'adoptez', 'drones']  0
+['Et', 'je', 'que', 'que', 'de', 'que', 'que', 'que', 'que', 'pas', 'de', 'récréation']  3.549809089428394e-232
+['Et', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '?']  0
+['<title>Nate', 'nous', 'a', 'de', 'de', 'de', 'de', 'la', 'nous', 'nous', 'nous', 'et', 'et', 'de', 'de']  1.1008876702055895e-231
+['<title>Andreas', 'Raptopoulos:', ':', 'bloquées', 'drogues', 'Stephen', 'Hawking', 'de', 'mondial</title>']  6.539945592878546e-233
+['Comment', "l'utiliserons-nous?"]  0
+['Il', 'y', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'je', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de']  0
+['Les', 'ne', 'de', 'pas', 'de', 'de', 'de', 'de']  1.2882297539194154e-231
+['Les', 'Pollan', 'les', 'les', 'de', 'de', 'de', 'de']  0
+['Mais', 'que', 'que', 'de', 'de', 'de', 'devaient-elles', 'correspondance', 'de', 'de', 'de', 'de', 'réduisez', 'réduisez', 'stigmate', 'stigmate']  0
+['Est-ce', 'que', 'la', 'de', 'de', 'de', 'de', 'de', 'vérrouillés,', 'vérrouillés,', 'bannis', 'de', 'de', 'de']  0
+['Est-ce', 'nous', 'de', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  1.5649716043468929e-232
+['Pourquoi', 'Kalman,', ':', 'le', 'nait.', 'illustrée</title>']  0
+['Mais', 'que', ':', 'que', 'de', 'de', 'de', 'la', 'nous', 'nous', 'nous', 'de', 'la', 'de', 'de', 'de', 'de']  0
+['<title>Andreas', 'dirent', ':', 'de', 'drogues', 'Stephen', 'de', 'de', 'la', 'chinoises</title>']  0
+['Et', 'One', 'que', 'état,', 'que', 'de', 'de', ':', 'dénouement', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de']  0
+['Et', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Je', 'je', 'vous', 'état,', 'vous', 'vous', 'vous', 'que', 'dénouement', 'dénouement', 'vous', 'atteindre,', 'atteindre,', 'atteindre,', 'atteindre,', 'Médecine', 'grimace']  0
+['Il', 'que', 'a', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<talkid>1836</talkid>']  9.594503055152632e-232
+['Comment', "l'utiliserons-nous?", 'fait-on']  0
+['Et', 'Hypponen:', 'nous', 'état,', 'Ai-je', 'Ai-je', 'Ai-je', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<speaker>Jenna', 'McCarthy</speaker>']  4.278038486651991e-232
+['Vous', 'ne', 'pas', 'pas', 'pas', 'de']  0
+['Les', 'avons', 'des', 'de', 'de', 'de']  8.088200202498789e-233
+['Comment', ':', 'que', 'de']  0
+['Comment', 'Lomborg', ':', 'seringues', 'de', 'de', 'la']  0
+['Et', 'étape:', 'le', "j'obtiens?", 'nait.', 'étiqueté!']  0
+['<keywords>talks,', 'Raptopoulos:', 'Conference,', 'bloquées', 'culture,', 'adoptez', 'drones', 'change</keywords>']  0
+['<title>Mikko', 'que', 'a', 'de', 'remplacements', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'de', 'de', 'Je', 'une', 'que', 'à', 'à', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', "C'est", 'absurde.']  0
+['<title>Alan', ':', ':', 'Vendre', 'de', 'de', "l'énergie</title>"]  0
+['Et', 'il', 'a', 'une', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'je', 'je', 'je', "j'étais", 'vous', 'de', 'de', 'Est-ce', 'nous', 'nous', 'reconnectent', 'remplacements', 'à', 'de', 'de', 'nous', 'nous', 'nous', 'nous', 'nous', 'nous', 'nous', 'et', 'de', 'de', 'de']  7.437597952034396e-232
+['Et', 'la', 'a', 'le']  0
+['Mais', 'ne', ':', ':', 'que', 'que', 'que', 'que', 'pas']  6.034940380417626e-232
+['Et', 'je', 'que', 'que', ':', ':', 'que', 'que', 'que', 'que', 'de', 'de']  0
+['Et', 'Killingsworth:', 'que', 'de', 'de', 'de', 'de', 'de', 'de']  3.508717818692784e-232
+['<title>David', 'survivre?']  0
+['Et', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'que', 'que', 'que', 'que', 'que', 'de', 'de']  9.257324954728539e-232
+['<title>Neil', 'Hillis', ':', ':', ':', 'adoptez', 'adoptez', 'ouvrières', 'ouvrières']  0
+['<keywords>talks,', 'String', 'Comment', 'état,', 'de', 'de', 'TED', 'TED', 'de', 'que', 'que', 'que', 'de', 'de', 'de']  0
+['Comment', ':', ':', ':', 'de', 'de', 'pub']  0
+['<title>Janet', 'Iwasa:', ':', ':', 'Biohacking', 'la', 'et', 'de', 'et', 'affecte-t-elle', 'affecte-t-elle', 'de', 'faire.</title>', 'hypothèse</title>']  0
+['Mais', 'Rhodes', ':', 'soucie', 'que', ':', 'de', 'de', 'Oakley', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Tosca', 'Tosca', 'Tosca', 'de', 'Parfait.']  8.319100378795605e-232
+['BF:', ':', ':']  0
+['Et', 'nous', 'a', 'de', 'de', 'de', 'trahi', 'nous', 'nous', 'nous', 'nous', 'nous', 'nous', 'de', 'de']  5.541564466373977e-155
+['<title>Mikko', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'collectés', 'collectés', 'collectés', 'qui', 'le', 'le', 'le', 'le', 'Et', 'la', 'nous', 'de', 'de', 'de', 'de', 'la', 'la', 'de', 'de', 'de', 'de', 'chirurgie', 'chirurgie', 'de', 'hanche.']  8.90735602648238e-232
+['Nous', 'avons', "l'innovation"]  0
+['Et', 'je', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'lentilles', 'lentilles', 'contact,', 'contact,', 'contact,', 'de', 'de', 'de']  0
+['Et', 'la', 'nous', 'de', 'de', 'de', 'de', 'débattre', 'débattre', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'hanche.', 'Comment', 'Kalman,', 'le']  9.609694291680954e-232
+['Et', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'hypothèse</title>']  6.325072941044999e-232
+['<title>Andreas', 'Raptopoulos:', ':', ':', 'succinte', 'Stephen', 'de', 'de', 'chinoises</title>']  0
+['<title>Mark', 'Krane:', ':', 'de', 'de', 'de']  5.058927350602078e-232
+['Comment', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de']  6.744160953836975e-232
+["Qu'est-ce", 'que', 'ça', 'ça']  0
+['Franchement,', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'qui', 'qui', 'qui', 'de', 'de', 'de', 'de', '?']  8.728471083178983e-232
+['Et', 'nous', 'que', 'pas', 'que', 'que', 'que', 'de', 'de', 'de']  0
+['Nous', 'avons', 'des', 'de', 'de']  7.408687442158376e-233
+['Mais', 'que', 'ça', 'pas', 'nuit-là']  0
+['Et', 'nous', 'nous', 'de', 'de', 'de', 'trahi', 'Prix', 'nous', 'nous', 'nous', 'nous', 'de', 'de', 'de']  9.257324954728539e-232
+['Comment', 'art,', 'creativity</keywords>']  0
+['Comment', 'Debate,', 'décompose', 'jonglent', 'positive</title>', 'sacrifier?']  0
+['Et', 'la', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<title>David', 'survivre?']  0
+['<translator']  0
+['Et', 'une', 'une', 'état,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'de', 'Comment', 'est-il']  8.614911585158347e-232
+['L\'acceptez-vous?"']  0
+['Quid', 'invente']  0
+['Est-ce', 'barons', 'nous', 'de', 'remplacements', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'la', 'la', 'et', 'et', 'et', 'de', 'de', 'de', 'de', 'Les', 'Bittman', 'élévation', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'alimentation</title>']  0
+['Leslie', 'survivre?']  0
+['Et', 'une', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<title>Mikko', 'Hypponen:', 'Hypponen:', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'race', 'race', 'race', 'le', 'le', 'le', 'réagir.</title>', 'réagir.</title>', 'réagir.</title>']  0
+['Je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de']  3.648956622645728e-232
+['Les', "l'Homo", 'a', "n'a-t-il", 'publient', 'celle-ci:', 'celle-ci:', 'de', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'stigmate']  0
+['Et', 'étape:', '"Était-il', 'fuites', 'nait.', 'danse?"']  0
+['Quid', 'survivre?', 'ressemblent-ils']  0
+['La', "d'homme", 'précisément,', "m'enlever", 'valve?', 'demandait,', 'de', 'de', 'de', 'de', 'de']  0
+['<title>Andreas', 'TED', ':', 'Sexe,', 'drogues', 'la', 'la', 'la', 'de', '?</title>']  0
+["C'est", 'une', 'une', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'Comment', 'pleures-tu?"', 'ressemblent-ils']  7.85424989138214e-232
+['Comment', 'comment', 'que', 'que', "n'utilises"]  0
+['Je', 'que', 'que', 'que', 'de', 'de']  0
+['<title>Oliver', 'Bittman', ':', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'heureux</title>']  0
+['Et', 'comment', 'que', 'de', 'de', 'sacrifier?']  9.55507953056397e-233
+['Et', 'une', 'que', 'de', 'de', 'argument,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Comment', ':', ':', 'de', 'positive</title>', 'positive</title>']  7.919883909890055e-232
+['Comment', 'que', 'que']  0
+['Je', 'je', 'que', 'que', "n'utilises", 'sacrifier?']  0
+['<keywords>talks,', 'String', 'theory,', ':', 'p...', 'p...', 'la', 'de', 'de']  0
+['Et', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'retrouve-t-elle']  0
+['Comment', 'la', 'la', 'de', 'de', 'de']  0
+['Il']  0
+['Et', 'que', 'vous', 'que', 'vous', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'Beijing', '!', '!']  8.510469113101058e-232
+['Pourquoi', 'étape:', 'mangerait', 'de', 'nait.']  0
+['Et', 'je', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Ah,']  6.986745328850449e-232
+['Quid', 'Kalman,', '+']  0
+['Est-ce', 'que', 'a', 'de', 'de', 'de', 'Loony', 'Tunes', 'Tunes', 'de', 'lentilles', 'lentilles', 'contact,', 'contact,', 'contact,', 'contact,', 'de', 'de', 'Bip', 'Bip?']  0
+['Les', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'la', 'Belk', 'ce', 'de', 'de', 'opéra', 'personnalisé,', 'de']  4.381858279520533e-232
+['Et', 'Kalman,', 'des', "j'obtiens?", 'illustrée</title>']  0
+['Et', 'la', 'que', 'état,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  8.972141065609098e-232
+['Et', 'que', 'le', 'de', 'de', 'de', 'de']  1.1390970104572432e-232
+['Et', 'que', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'que', 'vous', 'de', 'de', 'que', 'que', 'de', 'de', 'de', 'de', 'Très', ':', 'Deuxième']  0
+["Qu'est-ce", 'que', 'de']  0
+['Alors', 'que', 'les', 'les', 'de', 'de', 'de', 'croisiez']  0
+['Il', 'il', 'a', 'pas', 'succès.']  1.0803730114445865e-233
+['Comment', 'que', 'que', 'de', 'de']  0
+['Il', 'que', 'que', 'que', "j'entendis", 'que', 'de', 'de', 'de', 'qui', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'peux-tu', 'Et', 'nous', 'a', 'de', 'de', 'Ai-je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'Et', 'que', 'que', 'pas', 'vous', 'vous', 'opéra', 'personnalisé,', 'vous', 'confirmer', 'l’existence']  6.957990942521506e-232
+['Je', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Vidéo', ':', "N'importe", 'quoi.']  0
+['<title>David', 'Logan:', ':', 'Rénover', 'illustrée</title>', 'banlieues</title>']  0
+['Et', 'nous', 'nous', 'nous', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'qui', 'qui', 'qui', 'chirurgie', 'chirurgie', 'de', 'de', 'hanche.', 'Comment', 'Kuchera-Morin', 'Raspyni', 'jonglent', "l'AlloSphere</title>", 'plaisantent</title>']  0
+['Est-ce', 'que', 'erectus', 'de', 'remplacements', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'la', 'la', 'la', 'de', 'de', 'de']  0
+["Qu'en", 'invente']  0
+['Et', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'corticale', 'siègent', 'siègent', 'de', 'de', 'de', 'de', 'posture', 'posture', 'Comment', 'Frères', 'Raspyni', 'jonglent', 'de', 'plaisantent</title>']  9.893133360884868e-232
+['Et', 'je', 'que', 'pas', 'que', 'que', 'que', 'que', 'de', 'de', 'de']  4.030389204643943e-232
+['Et', 'ne', 'que', 'que', 'que', 'que', 'que', 'ne', 'de', 'de', 'de', 'de']  9.005789782247613e-232
+['Et', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'qui', 'qui', 'de', 'de']  0
+['Nous', 'avons', 'les', 'de', 'de', 'drogué', 'de', 'et', 'et', 'et', 'et', 'de', 'de']  6.168672961085447e-233
+['Nous', 'Besser', 'les', 'les', 'vœu', 'trahi', 'trahi', 'approuvez', 'approuvez', 'approuvez', 'approuvez', 'collectés', 'et', 'et', 'et', 'et', 'analysés', 'analysés', 'analysés', "C'est", 'tweet.', 'beaucoup!']  0
+['Je', 'je', 'une', 'état,', 'de', 'de', 'de', 'dénouement', 'dénouement', 'dénouement', 'dénouement', 'que', 'atteindre,', 'atteindre,', 'atteindre,', 'atteindre,', 'de', 'de', '<title>Peter', 'Diamandis', 'Routes', 'bloquées', 'drogues', 'adoptez', 'adoptez', 'drones', 'drones']  7.992219124248642e-232
+['Mais', 'que', ':', 'pas', 'apprend?".', 'imperméable</title>']  0
+['<title>David', 'avons', 'des', 'de', 'de', 'de']  0
+['<title>David', 'Sagmeister', ':', 'des', 'de', 'de']  0
+["Qu'est-ce", 'que', 'pas', 'pas', 'de', '?']  1.861075366666417e-232
+['Qui', 'les', 'des', 'de', 'de', 'de']  0
+['<title>David', 'Logan:', 'le', 'le', 'illustrée</title>']  0
+['<title>Mikko', 'Hypponen:', 'a', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'de', 'et', 'et', 'et', 'et', 'de', 'de', '<speaker>Jae', 'Rhim', '!']  1.012071042130996e-231
+['Comment', ':', ':', 'Comment', ':', ':', 'Comment', 'Comment', 'Comment', 'Comment', 'Comment', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'Comment', 'String', ':', ':', ':', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de']  8.653232845070694e-232
+['Je', 'je', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'de']  8.557263845682554e-232
+['Et', 'nous', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'de']  9.013305912816874e-232
+['Nous', 'est-il', "l'innovation"]  0
+['Et', 'que', 'que', 'état,', 'affichez', 'affichez', 'que', 'que', 'que', 'que', 'que', 'vous?"', 'vous?"', 'vous?"', 'grimace']  0
+['Comment', 'est-ce', 'que', 'de', 'de', 'de', 'de', 'vérrouillés,', 'vérrouillés,', 'vérrouillés,', 'vérrouillés,', 'bannis', 'de', 'de']  0
+['Je', 'Seung:', 'que', 'que', "n'utilises", 'sacrifier?']  5.058927350602078e-232
+['Nous', 'survivre?']  0
+['Mais', 'avons', 'a', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'analysés', 'analysés', 'peints', '<title>Jonathan', 'Trent', ':', 'des', 'de', 'de', 'de', 'ville</title>']  0
+['Et', 'nous', 'tournent', 'de', 'rétrospectivement,', 'publient', 'commence:', 'commence:', '"Professeur', 'et', 'et', 'vous?"', 'vous?"', 'de', 'de', 'Franchement,', 'que', 'a', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'de', 'de', 'de', 'Les', 'Hypponen:', 'a', 'de', 'de', 'de', 'trahi', 'trahi', 'trahi', 'approuvez', 'collectés', 'collectés', 'collectés', 'et', 'et', 'analysés', 'analysés', 'analysés', 'Il', 'les', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<title>Mikko', 'Hypponen:', ':', 'les', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'la', 'collectés', 'collectés', 'la', 'la', 'de', 'de', 'réagir.</title>', 'réagir.</title>']  2.7910233654350393e-232
+['Comment', 'le']  0
+['Et', 'la', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Comment', ':', 'la', 'l’industrie?']  8.412065649527267e-232
+['DH', ':', 'vous']  0
+['Les', 'ne', 'des', 'de', "l'aspect."]  4.481994719908145e-232
+['Goûtez', '!', '!']  0
+['Mais', 'peut', 'pas', "l'innovation"]  0
+['Et', 'que', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'pas', 'que', 'que', 'que', 'que', 'pas', 'de']  0
+['Les', 'guérison', 'a', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'réagir.</title>']  9.109159947227211e-232
+['Et', 'que', 'que', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '?']  0
+['<reviewer']  0
+['Comment', 'Killingsworth:', 'que', 'de', 'de', 'de', 'de', 'primitifs,', 'de', 'de', '?']  0
+['Comment', 'que']  1.724007354605445e-238
+['Et', 'ne', 'que', 'pas', 'que', 'que', 'que', 'pas', 'pas', 'de', '?']  0
+['Et', 'que', 'a', 'le', 'de', 'de', 'de', "l'esprit,", 'de', 'de', 'de', 'de', 'de', 'que', 'que', 'que', 'que', 'de', 'de', 'de', '<speaker>Rachelle']  0
+['Est-ce', 'que', 'que', 'de', 'que', 'de', 'de', 'minimale', 'smartphone,', 'smartphone,', 'de', 'de', 'micro-organisme']  2.4498225484602063e-232
+['Et', 'je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'je', 'je', 'je', 'je', 'que', 'que', 'que', 'que', 'de', 'Et', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Je', 'comment', 'fait-on']  0
+['Et', 'Hypponen:', 'que', 'que', 'Ai-je', 'Ai-je', 'Ai-je', 'Ai-je', 'que', 'que', 'de', 'de', 'de', 'de', 'que', 'que', 'de', 'de', 'de', 'de']  8.614911585158347e-232
+["Qu'en", 'invente', 'des']  0
+['Et', 'je', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'pas', '?"']  0
+['Je', ':', ':', 'vous', 'vous', 'vous', 'que', 'que', 'que', 'que', 'que', 'que']  0
+['<title>Graham', 'Hill', 'que', 'd’obligations', 'de', 'de', 'de', 'croisiez']  5.3701405702879534e-232
+['Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de']  3.9016220386172603e-233
+['Je', 'je', 'que', 'pas', 'que', 'que', 'que', 'que', 'pas', 'pas', '?', '?']  1.5753662865272211e-232
+['<title>Maira', 'Fitzgerald:', "L'aventure", 'Chorale', 'Virtuelle', 'imperméable</title>', 'live.</title>']  0
+['Et', 'que', 'que', 'de', 'de', 'de', 'de', 'demanderont,', 'de', 'de', 'de']  0
+['Et', 'je', 'que', 'état,', 'que', 'vous', 'que', 'dénouement', 'dénouement', 'dénouement', 'que', 'atteindre,', 'atteindre,', 'atteindre,', 'de', 'Médecine']  0
+['Les', 'que', 'a', 'de', 'de', 'de', 'de', 'de', 'la', 'de', 'de', 'de', 'et', 'chirurgie', 'chirurgie', 'chirurgie', 'hanche.']  0
+['Vous', 'Hill', 'préféré,', ':', ':', 'perceuse.', '?']  0
+['Et', 'que', 'que', ':', ':', 'de', 'de', 'de']  0
+['Et', 'que', 'que', 'évolution,', 'que', 'que', 'demandions', 'demandions', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Bip', 'Bip', '<title>Danny', 'Hillis', ':', 'les', 'de', 'demandait,', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Il', 'Hypponen:', ':', ':', "j'entendis", 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  8.972141065609098e-232
+['Mais', 'que', 'vous', 'pas', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de']  2.580112732645705e-233
+['Il', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<title>Maira', 'Kalman,', '+', 'Rénover', 'illustrée</title>']  7.992219124248642e-232
+['<title>Danny', 'Hillis', ':', ':', 'drogues', 'demandait,', 'comportementales', 'la', 'de', 'de', 'de', 'là?"']  6.452930355425922e-232
+['<title>Andreas', 'Pisani', ':', 'Sexe,', 'drogues', 'la', 'la', 'la', 'de', 'de']  6.54384673568429e-234
+['Je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de']  4.030389204643943e-232
+['Et', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  4.2247961148138585e-232
+["Qu'est-ce", 'que', ':', 'décidait', 'de', 'de', 'de', 'de', 'de', 'de', 'Illinois,', '?']  0
+['Nous', 'avons', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'peints']  7.551758838413996e-232
+['<keywords>talks,', 'String', 'Laptop', 'état,', 'état,', "m'auriez", 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'de', 'Comment', "l'utiliserons-nous?", 'cela?']  0
+['Je', 'ne', 'le', 'de', 'cheveux', 'prouver.']  3.624879844624495e-232
+['Comment', 'réinvente', 'réinvente']  0
+['Les', 'vêtements', 'Goodwin', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'fois...', 'hypothèse</title>']  0
+['Et', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  2.2684403294544797e-232
+['Et', 'je', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de']  0
+['Je', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Comment', 'Seung:', 'redéfinit', 'de', 'la', 'plaisantent</title>']  8.884136397986129e-232
+['Et', 'nous', 'a', 'tenons,', 'de', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'réparation', 'réparation', 'réparation', 'de', 'de', 'de', 'de', 'Et', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  9.533966891110756e-232
+['Mais', 'ne', 'pas', 'pas', 'pas', 'pas', 'pas', 'pas']  2.738929881729733e-232
+['<keywords>talks,', 'je', 'vous', 'état,', 'état,', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'atteindre,', 'atteindre,', 'de', 'de', '<speaker>Erin']  8.03880543857567e-232
+['Et', 'que', 'que', 'pas', 'pas', '?']  0
+['Mais', 'Hypponen:', ':', 'que', ':', ':', 'que', 'que', 'que', 'de', 'de', 'collectés', 'de', 'de', 'de', 'de', 'de', 'analysés', "Qu'en", 'invente', "l'innovation"]  5.3566932125754294e-232
+['Et', 'je', 'que', 'que', 'que', 'Ai-je', 'Ai-je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'biote,', 'de', 'de', 'de']  8.726094729337945e-232
+['Je', 'une', 'un', 'une', 'de', 'la']  1.8047214064961165e-233
+['Une', 'Matreyek', '!']  0
+['Et', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<talkid>705</talkid>']  1.012071042130996e-231
+['<title>Neil', 'Jorgensen', ':', ':', 'Biohacking', 'de', 'de', 'de', 'de', 'de', 'faire.</title>']  4.3764620741617154e-232
+['Mais', 'que', ':', 'pas', 'apprend?".']  0
+['Et', 'la', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de']  1.2395288183339461e-231
+['Comment', 'étape:', 'les', 'fuites', 'de', 'sacrifier?']  7.060301868108111e-232
+['Comment', 'comment', 'que', "j'obtiens?"]  0
+['Je', 'je', 'que', 'que', 'p...', 'que', 'que', 'que', 'que', 'de', 'de']  6.4865761664551965e-233
+['Et', 'pourquoi', '?']  0
+['Leslie', 'Chang', 'des', 'le', 'de']  3.6695469123219324e-232
+['Comment', ':', ':', 'que']  0
+['Comment', 'comment', 'la', 'de']  4.875931027759431e-234
+['Quid', 'invente', 'des']  0
+['Et', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'fiables', 'de', 'de', 'de', 'Et', 'ne', 'ne', 'pas', 'que', 'que', 'ne', 'ne', 'ne', 'ne', 'ne', 'que', 'de', 'de']  0
+['Je', 'je', '"Bien,', '"Bien,', ':', 'as-tu', 'que', 'mots?"', 'mots?"', '?"']  0
+['<keywords>talks,', 'String', 'theory,', ':', 'p...', 'global', 'que', 'que', 'que', 'que', 'que', 'de', 'Verrouillage', 'Majuscules?"']  8.769105200491155e-232
+['Comment', 'le']  4.218506908361334e-236
+['<title>Jennifer', 'Killingsworth:', 'les', 'les', 'de', 'de', 'la', 'la', 'de', 'de', 'tournée']  4.3764620741617154e-232
+['CA', ':', ':', ':', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'plonge', 'que', 'que']  0
+["Qu'est-ce", 'que', 'pas', 'prof?']  0
+['Je', 'je', 'vous', 'que', 'que', 'que', 'que', 'que', 'dénouement', 'dénouement', 'que', 'que', 'atteindre,', 'atteindre,', 'de', 'de']  5.190242885656906e-232
+['Mais', 'Hypponen:', ':', ':', ':', ':', ':', ':', ':', ':', ':', ':', 'que', 'que', 'que', 'que', 'de', 'de', '?', 'Comment', 'une', 'que', 'de', 'de', 'de', 'de', 'de', 'la']  1.0423153399406431e-231
+['<title>David', 'Logan:', 'des', 'de', 'de']  0
+['Leslie', 'Chang', ':', 'le', 'le', 'banlieues</title>']  0
+['Et', 'une', 'que', 'que', 'de', 'abondant', 'abondant', 'n’est-il', 'n’est-il', 'récupéré', 'récupéré', 'de', 'de', 'de', 'de', 'de', 'de']  5.906137398851913e-232
+['Comment', 'comment', 'que']  0
+['La', 'que', 'a', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'la', 'et', 'réparation', 'réparation', 'et', 'de', 'de', 'de', 'de', 'Je', 'une', 'une', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'biote,', 'biote,', 'biote,', 'de', 'de', 'Chimborazo!']  3.3566500347661918e-155
+['Et', 'la', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de']  5.447012482354515e-232
+['Comment', ':', ':', 'de', 'de', "d'immortalité", "d'immortalité", "d'immortalité", 'de', 'de', 'de']  0
+['Et', 'je', 'que', 'que', 'vous', 'Ai-je', 'Ai-je', 'Ai-je', 'PLM,', 'que', 'que', 'je', 'je', 'je', 'je', 'que', 'que', 'de', 'Entendez-vous', 'mangez-vous?']  4.845971199361337e-232
+['<title>Mikko', 'Hypponen:', 'a', 'soucie', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'de', 'de', 'de', 'de', '<talkid>1008</talkid>']  0
+['Mais', 'avons', 'a', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Tosca', 'Tosca', '<speaker>Taryn', 'Rhim']  0
+['Et', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  9.594503055152632e-232
+['<title>Maira', 'Kalman,', 'Danser', 'le', 'illustrée</title>']  7.408687442158376e-233
+['Et', 'une', 'dîtes-vous', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  3.414909870826271e-232
+['Je', 'je', 'vous', 'vous', 'vous', 'vous', 'que', 'que', 'que', 'que', 'que', 'je', 'je', 'je', 'que', 'que', 'de', 'de', 'Merci.']  0
+['Je', 'je', 'vous', 'vous', 'que', 'que', 'que', 'je', 'je', 'je', 'je', 'pas', 'pas', 'pas']  6.589783438757505e-232
+['Et', 'que', 'que', 'que', 'de', 'que', 'que', 'de', 'croisiez']  0
+['Comment', 'mangez-vous?']  0
+['Et', 'je', 'que', 'état,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Comment', 'Seung:', 'que', "j'obtiens?", 'de', 'connectome</title>']  9.788429383461836e-232
+['Je', 'je', 'vous', 'vous', 'vous', 'vous', 'demandant', 'demandant', 'je', 'je', 'vous', 'que', 'atteindre,', 'figurera', 'figurera', 'grimace']  0
+['Mais', 'y', 'a', 'pas', 'que', 'que', 'de', 'de', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'pas', 'de', 'de', 'de']  0
+['Et', 'nous', 'nous', 'de', 'de', 'de', 'nous', 'et', 'et', 'et', 'de', 'et', 'et', 'chirurgie', 'chirurgie', 'de', 'hanche.']  2.4596195717312636e-232
+['Il', 'y', 'a', 'pas', 'pas', 'de', 'de', 'de', 'de', 'de', 'de', 'que', 'pas', 'de', 'de', 'de', 'de']  0
+['Et', 'que', 'que', 'de', 'de', 'de', 'de', 'primitifs,', 'de', 'de']  9.269981669466712e-232
+['Comment', 'une', 'dîtes-vous', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de']  6.325072941044999e-232
+['Et']  0
+['Comment', 'pourquoi', 'que', 'de', 'de', 'de']  0
+["Qu'est-ce", 'survivre?', 'ressemblent-ils']  0
+['Leslie', 'Logan:', 'le']  8.50538989834391e-237
+['La', 'que', 'que', 'de', 'que', 'que', 'que', 'que', 'smartphone,', 'de', 'de', 'de']  0
+['Comment', 'Frères', 'Raspyni', 'jonglent', 'illustrée</title>']  0
+['Et', 'il', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  1.0669733992029681e-231
+['Les', 'Dyson', ':', 'les', 'de', 'de', 'de', 'de', 'de', 'évoluer</title>']  0
+['Les', 'avons', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de']  9.109159947227211e-232
+['Mais', 'je', 'vous', 'pas', 'vous', 'que', 'question:', 'que', 'que', 'que', 'vous', 'pas', 'pas', 'pas', '?', '?']  9.109159947227211e-232
+['Vous', 'vous', 'vous', 'pas', 'que', 'que', 'que', 'que', 'pas', 'pas', 'pas', 'pas']  8.34076112986429e-232
+['Et', 'la', 'erectus', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'la', 'la', 'la', 'de', 'de', 'de']  0
+['Vous', 'que', 'a', 'de', 'de', 'de', 'que', 'que', 'que', 'de', 'de', 'de', '?']  4.1166366788985576e-232
+["Qu'est-ce", 'Rhim', '!']  0
+['La', "d'homme", ':', "m'enlever", 'de', 'Stephen', 'de', 'de']  0
+['<title>Mark', 'Dyson', ':', 'les', 'de', 'de', 'de', 'de', '"pourquoi"']  0
+['Comment', 'une', 'dîtes-vous', 'état,', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'et', 'de', 'de']  1.6961782443146478e-232
+['<keywords>talks,', 'Europe,', ':', ':', 'chautauqua,', 'global', 'global', 'global', 'biolabo', 'mots?"']  0
+['Comment', 'la', 'que', 'de', 'de', 'de', 'de', 'de']  3.985119463158008e-232
+['<title>Jennifer', 'Killingsworth:', 'Lee', 'de', 'de', 'de', 'de', 'de', 'de']  1.692841243110689e-232
+['Je', 'une', 'une', 'de', 'de', 'de', 'de', 'de', 'de', 'de', "qu'", "qu'", 'de', 'de', 'de', 'de', 'de']  0
+['Mais', 'nous', 'a', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'peux-tu', '<title>Mikko', 'Hypponen:', ':', 'que', 'de', 'de', 'de', 'et', 'et', 'et', 'la', 'la', 'la', 'et', 'de', 'de', 'de', 'de', 'Comment', 'Kalman,', 'procurent-ils', "j'obtiens?"]  8.600165112232828e-232
+['Et', 'nous', 'que', 'état,', 'affichez', 'que', 'que', 'que', 'dénouement', 'que', 'que', 'que', 'que', 'Journal', 'de', 'Médecine']  5.8813156969232236e-232
+['Vous', 'que', 'vous', 'pas', 'vous', 'vous', ':', ':', 'vous', 'que', 'de', 'de']  1.39624446327421e-233
+['<title>Maira', 'Kalman,', 'new', 'traffic', 'illustrée</title>']  0
+['CA', ':', ':', ':', ':', 'de', 'Comment', 'Comment', 'Comment', 'Comment', 'plonge', 'plonge', 'plonge', 'plonge', 'plonge', 'plonge', 'et', 'mature']  7.967284768857219e-232
+['Et', 'la', 'la', 'de', 'de', 'de', 'de', 'débattre', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  8.972141065609098e-232
+['Les', 'vêtements', 'de', 'de', 'de', 'de', 'de', 'rose', "d'inversion", "d'inversion", "d'erreur", 'de', 'de', 'fois...', 'présidents</title>']  9.257324954728539e-232
+['Et', 'les', "d'auteur", 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  5.598518182343154e-232
+['Nous', 'Mullis', 'les', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'pirates', 'de', 'de']  3.4328867683783745e-232
+['Les', 'avons', 'des', 'les', 'de', 'de', 'de', 'de', 'de']  2.291011491110046e-233
+['<title>Nate', 'Iwasa:', ':', 'JR', 'Prix', 'Prix', 'Prix', 'Prix', 'race', 'affecte-t-elle', 'affecte-t-elle', 'fois...', 'hypothèse</title>']  0
+['Ils', 'avons', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'que']  0
+['Nous', 'Hypponen:', 'les', 'de', 'de', 'trahi', 'trahi', 'trahi', 'approuvez', 'approuvez', 'approuvez', 'collectés', 'collectés', 'collectés', 'et', 'de', 'de', 'la', '<title>Maira', 'Kalman,', 'des']  8.510469113101058e-232
+['Il', 'que', 'a', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'hanche.', '<talkid>1095</talkid>']  2.5208822136773177e-232
+['Mais', 'ne', 'a', 'pas', 'de', 'que', 'de', 'que', 'que', 'que', 'pas']  5.477489369001354e-155
+['<title>Boghuma', 'Hillis', 'Comment', ':', ':', 'de', ':', 'de', 'de', 'de', 'de', 'de', 'de']  7.053317181506347e-232
+['<title>Nate', 'French', ':', 'la', 'de', 'Prix', 'Prix', 'Prix', 'de', 'de', 'de', 'de', 'fois...', 'hypothèse</title>']  0
+['Mais', 'ne', 'pas', 'pas', 'pas', 'de', 'la']  1.1584775193308406e-233
+['<title>Jennifer', 'Killingsworth:', 'Lee', 'de', 'de', 'de', 'de', 'de', 'recouverte', 'recouverte', 'Tso</title>']  0
+['Franchement,', 'Rhodes', 'a', 'soucie', 'de', 'de', 'de', 'de', 'Oakley', 'de', 'de', 'de', 'Maria', 'Maria', 'Maria', 'de', 'de', 'de', 'de', 'de', 'Tosca', 'de']  5.5877469341252215e-232
+['Il', 'les', 'a', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Est-ce', 'que', ':', 'de', 'de', 'de', 'de', ':', ':', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Comment', 'Steel', 'Lee', 'Agrandir', 'de', 'de', 'de', 'de', 'champignons</title>']  7.850707993042515e-232
+['<title>Nate', 'Silver', ':', '2600', 'ancestrale', 'peuvent-elles', 'peuvent-elles', 'peuvent-elles', 'de', '?</title>', '?</title>']  0
+['Et', 'nous', 'poète,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'lentilles', 'lentilles', 'lentilles', 'contact,', 'contact,', 'contact,', 'de', 'de', 'de', 'de', 'de', '<title>Mikko', 'Hypponen:', ':', 'de', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'collectés', 'collectés', 'collectés', 'collectés', 'la', 'la', 'de', 'analysés', 'analysés', '<speaker>Rachelle']  0
+['Et', 'je', 'que', 'pas', 'de', 'de', 'de', 'de', 'moulins']  0
+['Et', 'je', 'que', 'que', 'que', 'de', 'de', 'Tunes', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'peignait', 'de', 'Bip']  2.826975212042984e-232
+['Je', 'je', 'que', 'que', 'que', 'que', 'de', 'de', 'dénouement', 'dénouement', 'que', 'article', 'atteindre,', 'atteindre,', 'atteindre,', 'atteindre,', 'de', 'de', '<speaker>Leymah']  0
+['<title>Nate', 'French', ':', ':', ':', 'vœu', 'Prix', 'Prix', 'Prix', 'de', 'de', 'de', 'fois...', 'fois...', 'école.</title>']  0
+['Pourquoi', 'parlons-nous', 'ressemblent-ils', 'micro-algues']  0
+['<title>Brian', 'Greene', ':', 'propos', 'de', 'de', 'de', 'de', 'objet</title>']  5.400301927028362e-232
+['Comment', 'fait-elle', 'une', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'de', 'de', 'Il', 'a', 'a']  9.788429383461836e-232
+['<title>George', 'Dyson', ':', 'propos', 'de', 'de', 'de', 'de']  0
+['<title>David', 'Pogue', 'des', 'des', 'de', 'guerres', 'de', 'de']  6.570351225189682e-232
+['<title>Brian', 'Greene', ':', '2600', 'de', "d'histoire", 'de', "d'algues", '?</title>']  3.004619893158353e-233
+['<speaker>Beeban']  0
+['Et', 'nous', 'nous', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'Comment', 'Krane:', 'Lee', 'les', 'de', 'de', 'de', 'de']  0
+['Certains', ':', ':', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'plonge', 'plonge', 'plonge', 'et']  3.9529386815872796e-232
+['Comment', ':', ':', ':', ':', ':', 'de', 'Comment', 'Comment', 'plonge', 'plonge', 'plonge', 'plonge', 'plonge', 'plonge', 'plonge']  0
+['Mais', 'ne', 'pas', 'pas', 'que', 'que', 'pas', 'pas', 'pas']  0
+['Et', 'nous', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<title>Janet', 'Hypponen:', 'nous', 'de', 'vœu', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'de', 'de']  8.844844403089351e-232
+['Je', 'une', 'une', 'une', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'de', 'de', '<title>Mikko', 'Hypponen:', ':', ':', 'de', 'trahi', 'trahi', 'trahi', 'trahi', 'et', 'la', 'la', 'la', 'et', 'et', 'de', 'de', 'de', '<talkid>1095</talkid>']  0
+['Et', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'nous', 'nous', 'nous', 'de', 'de', 'de', 'de']  0
+['<title>Mark', 'Trent', ':', 'Imprimez', 'Virtuelle', 'imperméable</title>', 'médicaments</title>']  0
+['Nous', 'ne', 'pas', 'pas', 'de', 'de']  4.905741404709443e-233
+['Les', 'ne', 'le', 'le', 'de', 'de']  0
+['Mais', 'nous', "d'infrastructure", "m'enlever", 'de', 'de', '"pourquoi', 'et', 'smartphone,', 'de', 'l’existence', 'de']  0
+['<title>Mitchell', 'Besser', ':', 'vœu', 'vœu', 'trahi', 'trahi', 'trahi', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'analysés', 'analysés', 'réagir.</title>']  0
+['La', 'avons', ':', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  2.558234810691267e-232
+['Il', 'altérations', 'a', 'de', 'pollinisation,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'fulgurante', 'Les', 'étape:', 'des', 'les', 'nait.', 'Youpi']  7.992219124248642e-232
+['<title>Elizabeth', 'TED', 'Conference,', 'Sexe,', 'drogues', 'drogues', 'peuvent-elles', 'peuvent-elles', 'la', 'de', 'B.</title>']  2.801700584692622e-232
+['Nous', 'ont', 'super!', 'chanson,', 'de', 'de', 'de', 'L\'Angleterre!"']  4.739132419722992e-232
+['Et', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'de', 'de', 'fulgurante', 'Et', 'French', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'fois...', 'hypothèse</title>']  8.784466509829401e-232
+['Mais', 'que', 'a', 'pas', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'que', 'que', 'que', 'de', 'de', 'Tosca', '<speaker>Laura']  4.5044241200683886e-232
+['Mais', 'ne', ':', 'ce', 'de', 'de', 'la', 'de', 'de']  7.536728468577135e-232
+['<title>Boghuma', 'Hillis', ':', ':', 'de', 'de', 'comportementales', 'comportementales', 'de', 'de', 'de']  5.797920459331518e-232
+['<title>Le', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'Prix', 'Prix', 'et', 'et', 'de', 'de', 'monde</title>']  9.257324954728539e-232
+['Franchement,', 'Rhodes', 'a', 'soucie', 'de', 'de', 'terroristes,', 'terroristes,', 'Oakley', 'Oakley', 'Maria', 'de', 'de', 'Callas', 'Callas', 'Callas', 'Callas', 'Tosca', 'Tosca', 'Tosca', 'Tosca', 'Tosca', 'Tosca', '<speaker>Elizabeth', 'Garniez</speaker>']  0
+['<keywords>talks,', 'la', ':', ':', 'p...', 'de', 'de', 'de', 'de', 'de', 'de']  7.551114723170368e-232
+['Les', 'Rhodes', 'Hugh', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'de', 'de', 'Voici', ':', ':', ':', 'p...', 'de', 'de', 'de', 'de', 'de']  9.109159947227211e-232
+["C'est", '!', '!']  0
+['<title>Danny', 'Hillis', ':', ':', ':', 'la', 'la', 'de', 'de', 'de', 'de']  1.2850117737852227e-232
+['Nous', 'que', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'La', 'que', 'a', 'pas', 'que', 'que', 'de', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de']  0
+['Les', 'guérison', ':', 'de', 'de', 'de', 'trahi', 'de', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'analysés', 'réagir.</title>']  0
+['Mais', 'étape:', 'a', 'pas', 'de']  0
+['Comment', 'que']  0
+['Franchement,', 'altérations', ':', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'de', 'de', '<title>Brian', 'Greene', ':', '2600', 'de', 'de', 'de', 'de', 'de', 'histoires</title>']  9.109159947227211e-232
+['Les', 'Alemseged', ':', 'les', 'de', 'de', 'de', 'de', 'objet</title>']  3.6846889193984664e-232
+['Et', 'une', 'le']  0
+['<keywords>talks,', 'Seung:', 'chante', 'Rachelle', 'merde.']  0
+['Nous', 'Bostrom', '68%', 'les', 'annuel', 'de', 'croiront', 'la', 'de', 'de', 'de']  5.797920459331518e-232
+['<title>Andreas', 'Steel', 'Lee', "l'ingéniosité", 'de', 'de', 'de', 'de', 'de', 'données</title>']  1.2545555948354852e-232
+['Merci', 'beaucoup.']  0
+['Je', 'ne', 'que', 'pas', 'que', 'que', 'pas', 'de']  3.3528323128761053e-233
+['BF', ':', ':', 'de', 'de', 'de', 'de', 'de', 'avocat,']  4.324223740015325e-232
+['Je', 'je', 'que', 'que', 'de', 'de', 'de', 'que', 'de', 'que', 'et', 'de', 'de']  0
+['Comment', 'Frères', 'Raspyni', 'jonglent', 'nait.', 'sacrifier?']  0
+['<title>Brian', 'Iwasa:', ':', 'JR', 'vœu', 'Prix', 'Prix', 'ouragan', 'affecte-t-elle', 'affecte-t-elle', 'affecte-t-elle', 'de', 'faire.</title>']  0
+['Je', 'vous', 'que', 'que', 'pas']  0
+['Nous', 'avons', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'présidents</title>']  5.286975599023655e-232
+['Et', 'que', 'la', 'de', 'de', 'de', 'de', 'croisiez']  8.680023804553935e-234
+['La', 'Bittman', ':', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'alimentation</title>']  0
+['Il', 'y', 'a', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<speaker>Laura', 'Stuart</speaker>']  0
+['<title>Maira', 'Kalman,', 'Danser', 'médical', 'illustrée</title>', 'illustrée</title>']  0
+['La', 'le', '68%', "m'enlever", 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Comment']  0
+['La', 'que', ':', ':', 'de', 'que', 'que', 'de', 'de', 'de', 'de', 'alimentation</title>']  0
+['Est-ce', 'Hillis', ':', ':', 'de', 'ancrer', ':', ':', ':', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'que', 'que', 'pas', 'que', 'que', 'de', 'croisiez']  0
+['Alors', 'que', 'les', 'de', 'de', 'de', 'de', 'de']  1.5829830388312335e-234
+['<title>Mikko', 'Hypponen:', 'Hypponen:', 'TED', ':', 'trahi', 'trahi', 'trahi', 'trahi', 'de', 'de', 'de', 'qui', 'et', 'et', 'de', 'de', 'de', 'de']  9.304002528735528e-232
+['Je', 'Seung:', 'que', "j'obtiens?"]  0
+['Est-ce', 'nous', 'a', 'de', "j'entendis", "j'entendis", 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'chirurgie', 'chirurgie', 'de', 'de', 'hanche.', 'Et', 'la', 'les', 'de', 'la', 'de', 'de', 'la', 'de', 'de', 'et', 'et', 'de', 'de']  3.4437891216575777e-155
+['Vidéo', ':', 'Ouais!']  0
+['Je', 'je', 'vous', 'que', 'que', 'que', 'de', 'que', 'de', 'que', 'que', 'de', 'de', 'de', 'de']  9.257324954728539e-232
+['<title>Maira', 'Frères', 'Raspyni', 'jonglent', 'partageable', 'change</keywords>']  0
+['Je', 'je', 'que', 'que', 'de', 'que', 'de', 'que', 'que', 'que', 'que', 'que', 'atteindre,', 'atteindre,', 'atteindre,', 'de', 'de', 'de', '<title>Maira', 'Kalman,', '"Kiteflyer\'s', 'micro-algues']  1.0003688322288243e-231
+['Comment', 'Voyez-vous', 'dîtes-vous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de']  0
+['<title>Brian', 'Greene', ':', '2600', 'Musique', 'de', 'de', 'de', 'de', 'de', 'pensées.</title>']  8.34060433022243e-232
+['Nous', 'vêtements', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', "d'erreur", 'de', 'de', 'de', 'présidents</title>', 'présidents</title>']  7.740246750689896e-232
+['Nous', 'Rosling', ':', 'propos', 'de', 'de', 'de', 'de', 'ville</title>']  2.152904229820832e-233
+['Nous', 'avons', ':', 'de', 'de', 'drogué', 'et', 'et', 'et', 'et', 'et', 'de', 'de']  1.4298278526629658e-232
+['Comment', 'comment', 'que']  1.2240885777350096e-235
+['<title>Kirby', 'Dunham-Jones', ':', 'Rénover', 'Virtuelle', 'banlieues</title>']  0
+['Et', 'Seung:', 'que', 'seringues', "n'utilises", 'sacrifier?']  0
+['Comment', 'Voyez-vous', 'dîtes-vous', 'état,', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'de']  9.257324954728539e-232
+['Je', 'je', ':', ':', ':', 'que', 'que', 'que', 'que', 'mots?"', '?"']  0
+['Je', ':', 'que', 'que', "n'utilises"]  7.408687442158376e-233
+['Pourquoi', 'que', 'que', 'dormir', 'pas', '?', '?']  0
+['Les', 'que', ':', 'de', 'de', 'que', 'arthroplastie', 'arthroplastie', ':', 'que', 'que', 'que', 'de', 'de', '?']  0
+['Nous', 'Besser', 'les', 'les', 'de', 'de', 'de', 'Oakley', 'Oakley', 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'Tosca', 'de', '<title>Mikko', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'la', 'collectés', 'collectés', 'la', 'la', 'de', 'de', 'de']  7.337741777064293e-232
+['Je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'de']  1.0003688322288243e-231
+['<title>Mikko', 'Hypponen:', 'que', 'que', 'Ai-je', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de', 'de', 'de', 'de', 'Comment', 'mangez-vous?']  8.319100378795605e-232
+['Comment', 'comment', 'ça']  0
+['Et', 'que', 'que', 'que']  0
+['Il', 'que', ':', ':', ':', 'que', 'que', 'que', ':', ':', 'de', 'de', 'de', 'de', 'de', 'de', '<talkid>1531</talkid>']  0
+["C'est", 'la', 'de', 'de', 'de', 'de', 'de']  6.520501036082648e-232
+['Je', 'je', 'vous', 'vous', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'que']  0
+['Je', 'je', 'que', 'que', 'pas', 'de', 'de']  1.8644732021433363e-234
+['Et', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'la']  5.189066807518457e-155
+['Et', 'je', 'que', 'que', 'de', 'de', 'Loony', 'Tunes', 'Tunes', 'de', 'de', 'de', 'lentilles', 'contact,', 'contact,', 'contact,', 'de', 'de', 'Bip', 'Bip', 'Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'que', 'que', 'que', 'de', 'de']  7.544641259221007e-232
+['Comment', 'Frères', 'Raspyni', 'de', "n'utilises", 'sacrifier?']  2.1986007635391227e-232
+['Comment', 'Kuchera-Morin', 'réinvente']  0
+['<title>Andreas', 'TED', ':', 'Sexe,', 'drogues', 'la', 'la', 'la', 'de', 'de', 'filles</title>']  0
+['Est-ce', 'que', 'nous', 'de', 'de', 'à', 'de', 'de', 'et', 'et', 'de', 'de', 'la', 'la', 'de', 'de', 'de', 'de']  3.0592122945272586e-155
+['Et', 'je', 'que', 'que', 'de', 'que', '"Jamie,', 'PLM,', 'PLM,', 'PLM,', 'que', 'que', 'que', 'Journal', 'Journal', 'Journal', 'Médecine', 'de']  0
+['<title>Mark', 'dirent', ':', 'les', 'succinte', 'de', 'la']  4.753148692240233e-232
+['Comment', 'que']  0
+['Il', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  8.557263845682554e-232
+['<title>Brian', 'Greene', ':', 'les', 'demandait,', 'demandait,', 'trouvez-vous', 'de', 'et', 'viennent-elles?', 'de', 'de', 'faire.</title>']  0
+['Je', 'je', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'Comment', 'Kalman,', 'Raspyni', 'jonglent', 'illustrée</title>']  9.689041594391036e-232
+['Et', 'pourquoi', 'que', 'que', 'de', 'de', 'de']  1.5158102858912651e-232
+['Est-ce', 'barons', 'nous', 'que', 'de', 'de', 'de', 'de', 'et', 'qui', 'qui', 'qui', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Vous', 'que', ':', ':', ':', 'que', 'que', 'pas']  0
+['<title>Nate', 'Vice', ':', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'hypothèse</title>']  3.068394543398962e-232
+['<keywords>talks,', 'String', 'Laptop', 'TED', 'TED', 'TED', 'trahi', 'TED', 'de', 'de', 'de', ':', 'design,', 'de', 'de', 'Comment', ':', ':', 'convaincus', 'convaincus', 'convaincus', 'de', 'et', 'et', 'que', 'que', 'plonge', 'plonge', 'perpétuation', 'perpétuation', 'biote,', 'biote,', "Qu'en", 'Kaplan', 'des', 'de']  1.0518351895246305e-231
+['<title>Lawrence', 'Kabisen', ':', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Nous', 'avons', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'les', 'et', 'et', 'de', 'de']  9.418382295637229e-232
+['Comment', ':', ':', ':', 'de', 'de', 'de', 'de', 'de', 'de']  1.0244914152188952e-231
+['Franchement,', 'nous', 'a', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Comment', 'Surace', ':', 'de', 'de', 'de', 'la']  7.784451369270533e-232
+['<title>Neil', 'Killingsworth:', ':', ':', 'de', 'de', 'de', 'de', 'de', 'la']  0
+['Je', 'je', 'vous', 'vous', 'vous', 'que', 'que', 'vous']  0
+['Les', 'nous', 'a', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'analysés']  0
+['Nous', 'avons', 'les', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'fonctionnent.']  0
+['Quid', 'invente']  0
+['<title>Mark', 'Sissay', ':', 'le', 'de', 'de', "l'état</title>"]  0
+['Nous', 'avons', 'les', 'de', 'de', 'de', 'de', 'les', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<title>Mikko', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'la', 'la', 'la', 'collectés', 'la', 'la', 'la', 'la', 'de', 'de', 'de', 'de', '<speaker>Eric', 'Whitacre</speaker>']  0
+['<title>Mikko', 'Hypponen:', ':', ':', 'de', 'de', 'la', 'la', 'la', 'la', 'la', 'la', 'la', 'la', 'chirurgie', 'chirurgie', 'de', 'hanche.', '<title>Mikko', 'Hypponen:', 'les', 'de', 'de', 'de', 'de', 'de', 'la', 'la', 'de', 'de', 'et', 'chirurgie', 'chirurgie', 'hanche.', 'hanche.']  0
+['Certains', ':', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'que', 'que', 'que', 'et', 'la']  5.255391282699772e-156
+['Vous', 'ne', ':', 'pas', 'de', 'de', 'de', 'de', 'de', 'de']  2.3949323699607068e-232
+['<title>Mikko', 'Hypponen:', 'a', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'la', 'et', 'réparation', 'et', 'de', 'de', 'de', 'de', 'Comment', 'Muruganantham', ':', ':', 'de', 'de', 'de', 'et', 'Comment', 'plonge', 'plonge', 'plonge']  0
+['Comment', ':', ':', 'de', 'de', 'de', 'la', 'la', 'la']  9.412234823955334e-232
+['Certains', ':', 'a', 'de', 'de', 'de', 'de', 'la', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'Comment', ':', ':', ':', 'de', 'de', 'de', 'de', 'de', 'de']  4.058549132154964e-155
+['Est-ce', 'Hypponen:', ':', 'de', 'de', 'trahi', 'trahi', 'trahi', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'analysés']  0
+['<translator', 'href="http://www.ted.com/profiles/239263">Elisabeth']  0
+['Et', 'nous', 'que', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'de', 'Vous', 'fait,', 'de', 'le', 'de', 'de', 'de', 'de']  3.677591797349584e-155
+['<keywords>talks,', 'la', '"Vous', 'stupides,', 'rétrospectivement,', 'rétrospectivement,', ':', ':', 'que', 'que', 'que', 'vous?"', 'vous?"', 'vous?"', 'de', 'Et', 'je', 'repart.', 'que', 'vous', 'que', 'que', 'que', 'que', 'que', 'et']  8.06798322521923e-232
+["Qu'est-ce", 'que', '?']  6.683297182103426e-234
+['Je', 'je', ':', '"Bien,', ':', 'que', 'que', 'que', 'de']  0
+['Je', 'je', 'vous', 'vous', 'vous', 'vous', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'vous', 'de', '<talkid>1469</talkid>']  0
+['Je', 'que', 'que', 'pas', 'pas']  0
+['Mais', 'que', 'a', 'soucie', 'pollinisation,', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'que', 'de', 'de', 'de', 'de', 'de', '?', 'Comment', 'comment', 'que']  7.992219124248642e-232
+['<title>Gary', 'Lauder', ':', 'propos', 'de', 'de', 'de', 'signalisation,', '"Chacun', 'plante</title>']  8.387826279040936e-232
+['Entendez-vous', 'mangez-vous?']  0
+['Et', 'nous', 'que', 'de', 'de', 'de', 'de', 'de', 'de', '?', '?']  2.114816241110987e-232
+['<keywords>talks,', 'String', 'spectrum', 'disaster', 'p...', 'p...', 'de', 'de', 'de', 'de']  4.960142520714786e-232
+['Mais', 'Sissay', ':', 'les', 'de', 'de']  2.1461875372029916e-233
+['Quid', 'survivre?', 'ressemblent-ils']  0
+['Les', 'y', 'a', "l'innovation"]  0
+['Alors', 'étape:', 'des', 'de', 'de', 'de']  0
+['<title>Maira', 'Kalman,', ':', 'le', 'illustrée</title>']  0
+['Et', 'je', 'a', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'Comment', 'le']  8.412065649527267e-232
+['Il', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'réparation', 'réparation', 'réparation', 'de', 'de', 'de', 'de', 'Et', 'la', 'a', 'de', 'de', 'de', 'de', 'débattre', 'débattre', 'de', 'de', 'de', 'de', 'de', 'chirurgie', 'chirurgie', 'de', 'de', 'hanche.', 'CA', ':', ':', ':', ':', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'Merci.']  0
+['Les', 'les', 'a', 'les', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de']  4.610690499348075e-232
+['Comment', 'la', 'la', 'de', 'de', 'de']  0
+['<title>Janet', 'Hypponen:', ':', 'JR', ':', 'trahi', 'trahi', 'Prix', 'Prix', 'race', 'race', 'la', 'de', 'de', 'de']  4.159584232404679e-232
+['Il', 'que', 'a', 'que', "j'entendis", 'Ai-je', 'Ai-je', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'Ramu.', 'de', 'de', 'de', 'Comment', ':', 'Internet</title>']  0
+['Et', 'la', 'a', 'de', 'de', 'de', 'de', 'débattre', 'débattre', 'de', 'de', 'de', 'de', 'de', 'chirurgie', 'chirurgie', 'de', 'hanche.', '<talkid>705</talkid>']  0
+['<title>Andreas', 'la', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  2.024480926950122e-232
+['Il', 'ne', 'a', 'pas', 'pas', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de']  6.531097185393997e-232
+['<title>Maira', 'Kalman,', '+', 'Preston', 'illustrée</title>']  0
+['Comment', 'Kalman,', 'procurent-ils']  0
+['Il', 'y', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de', 'de', 'Il', 'a', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'médiocrité']  7.601159375410181e-232
+['Et', 'French', 'a', 'de', 'de', 'de', 'vœu', 'Prix', 'Prix', 'de', 'et', 'et', 'et', 'de', 'école.</title>']  0
+['Mais', 'que', 'a', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', '<title>Mikko', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'race', 'race', 'race', 'la', 'la', 'de', 'de', 'réagir.</title>', 'réagir.</title>']  0
+['Je', 'je', 'je', 'vous', 'vous', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'je', 'de', "Qu'est-ce", 'que', 'n°5', 'de']  8.313892186987805e-232
+['Mais', 'que', ':', ':', ':', ':', ':', ':', 'vous', 'vous', 'vous', 'que', 'que', 'que', 'de', 'de', 'Et', 'comment', 'que', 'que', "n'utilises"]  8.510469113101058e-232
+['Il', 'y', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Et', 'que', 'vous', 'que', 'que', 'que', 'plaît', 'plaît', 'de', 'de', 'de', 'lentilles', 'lentilles', 'contact,', 'contact,', 'de', 'de', 'de', 'opérer', '<talkid>1636</talkid>']  9.594503055152632e-232
+['Comment', 'Voyez-vous', 'dîtes-vous', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  9.418382295637229e-232
+['Comment', 'que']  3.1170784199608393e-235
+['Comment', ':', ':', 'état,', 'état,', "m'auriez", 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'et', 'Et', 'une', 'expliqué,', 'stupides,', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'Majuscules?"', '<talkid>655</talkid>']  7.784451369270533e-232
+['<title>Neil', 'que', ':', ':', ':', ':', 'vous', 'croisiez', 'croisiez']  1.0518351895246305e-231
+['Et', 'je', 'vous', 'que', 'que', 'que', 'que', 'je', 'vous', 'vous', 'vous', 'vous', 'que', 'que', 'que', 'pas', 'de', 'Comment', 'savons-nous', 'que', 'de', 'de', 'de']  0
+['Et', 'je', 'vous', 'état,', 'vous', 'vous', '"Jamie,', 'PLM,', 'dénouement', ':', ':', 'vous', 'que', 'que', 'de', 'de', 'de']  0
+['Et', 'vous', 'Belk', '"Bien,', 'vous', '"Pourquoi', '"Pourquoi', 'vous']  0
+['Et', 'je', 'vous', 'vous', 'vous', 'vous', 'vous', 'je', 'je', 'je', 'je', 'je', 'pas', 'pas']  0
+['Et', 'je', 'vous', 'vous', 'vous', 'vous', 'vous', 'PLM,', 'dénouement', 'dénouement', 'vous', 'vous', 'que', 'atteindre,', 'que', 'de', 'de', 'DH', ':', ':', 'vous', 'de', 'de', 'que', 'que', 'que', 'que', 'que']  0
+['Je', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de', 'de', 'de']  0
+['<title>Mikko', 'Hypponen:', 'a', 'de', 'de', 'de', 'trahi', 'trahi', 'la', 'la', 'la', 'de', 'de', 'de', 'de']  0
+['Et', 'la', 'a', 'de', 'de', 'de', 'de', 'de', 'nous', 'nous', 'nous', 'nous', 'de', 'de', 'de']  0
+['La', 'que', 'a', 'de', 'de', 'publient', 'publient', 'de', 'de', 'de', 'qui', 'qui', 'de', 'chirurgie', 'de', 'hanche.']  0
+['Je', 'je', 'que', 'que', 'ce', 'que', 'que', 'que', 'de']  1.4959121604011897e-234
+['Et', 'pourquoi', 'que', 'que', 'de', 'de']  4.152620446125756e-233
+['Je', 'je', 'vous', 'vous', 'vous', 'vous', 'vous', 'que', 'que', 'que', 'que', 'vous?"', 'vous?"', 'grimace']  0
+['Mais', 'Chang', '"Kiteflyer\'s']  0
+['La', 'que', 'de', "m'enlever", 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<keywords>talks,', 'T.', 'Lee', 'bloquées', 'de', 'figures?', 'de', 'de']  1.1417558422556747e-232
+['Et', 'je', 'que', 'que', 'de', 'que', 'que', 'que', 'de', 'de', 'de']  7.61581178815304e-232
+['Je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', '?']  0
+['Je', 'je', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'que', 'que', 'que', 'de', 'que', 'que', 'de', 'de', 'de', 'de']  8.537519152881823e-232
+['Et', 'je', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'que', 'que', 'que', 'de', 'de']  1.0377133938315695e-231
+['Je', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Et', '!']  6.914574844713931e-232
+["Qu'est-ce", 'mangez-vous?', '"Kiteflyer\'s']  0
+['<title>Danny', 'Hillis', ':', ':', ':', ':', 'de', 'de', 'de', 'de']  0
+['Et', 'pourquoi', 'que', 'que', "n'utilises", 'sacrifier?']  7.060301868108111e-232
+['Et', 'que', 'que', 'pas', 'pas']  0
+['Comment', 'que', 'que', 'que', ':', '"Pourquoi', 'de', 'de']  1.057443375777407e-232
+['Est-ce', 'que', 'vous', 'pas', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', "C'est", 'la', 'Skycar', 'de', 'de', 'de']  0
+['Je', 'pourquoi', 'que', 'que']  5.26470056449746e-234
+['Je', 'une', 'que', 'que', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'String', 'la', 'état,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'chirurgie', 'chirurgie', 'chirurgie', 'de', 'Et', 'la', 'les', 'de', 'de', 'de', 'de']  8.231055179516831e-232
+['Et', 'je', 'que', 'que', 'de', 'que', 'que', 'demanderont,', 'demanderont,', 'que', 'de', 'de']  0
+['Je', 'je', 'vous', 'vous', 'que', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'grimace']  0
+['Et', 'je', 'que', 'que', 'ce', '"Pourquoi', 'que', 'croisiez']  5.393272712782269e-233
+['Comment', 'Kalman,', 'new', "j'obtiens?", 'illustrée</title>']  0
+['Et', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'médiocrité']  0
+['Et', 'la', 'que', 'de', 'de', 'de', 'Loony', 'Tunes', 'Tunes', 'de', 'de', 'de', 'de', 'de', 'de', 'poursuit', 'de', 'Bip', 'Bip', 'Bip', '<talkid>705</talkid>']  1.1570033641611177e-231
+['Beijing', 'sang']  0
+['Nous', 'avons', 'les', 'les', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'pirates', 'pirates', 'de', 'de']  7.579256631672492e-232
+['Et', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Je', ':']  0
+['Nous', 'Besser', ':', 'de', 'vœu', 'trahi', 'trahi', 'de', 'approuvez', 'approuvez', 'collectés', 'collectés', 'collectés', 'la', 'la', 'analysés', 'analysés', 'analysés', 'analysés']  8.726094729337945e-232
+['Comment', '!']  0
+['Il', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'suédois']  2.1420492665089074e-233
+['<title>David', 'Logan:', 'des', 'le', 'tribu</title>']  7.408687442158376e-233
+['Nous', 'avons', 'nous', 'de', 'de', 'de', 'et', 'et', 'et', 'approuvez', 'et', 'et', 'et', 'et', 'améliorer', 'de', 'peints', 'peints', 'Et', 'String', 'Laptop', 'état,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Comment', 'fait-elle', 'dîtes-vous', 'que', 'de', 'tendent', 'tendent', 'tendent', 'de', 'perpétuation', 'perpétuation', 'perpétuation', 'biote,', 'biote,', 'de', 'de']  9.01666918778251e-232
+['<title>Brian', 'Behar', ':', '2600', 'de', 'de', 'de', 'de', 'de', 'histoires</title>']  3.768893293156672e-232
+['<title>Mark', 'Balagadde', ':', ':', 'de', 'de', 'de', 'ville</title>']  2.417097137022882e-232
+['Leslie', 'Chang', ':', 'pas', 'le']  0
+['Nous', 'Hypponen:', 'la', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'approuvez', 'approuvez', 'approuvez', 'collectés', 'collectés', 'collectés', 'et', 'analysés', 'analysés', 'analysés', 'analysés']  1.0377133938315695e-231
+['Mais', 'ne', ':', 'pas', 'de', 'nuit-là']  0
+['Comment', 'Kuchera-Morin', 'Raspyni', 'de']  6.413718283190248e-233
+['Et', 'je', 'je', 'vous', 'vous', 'vous', 'vous', 'que', 'que', 'vous', 'vous', 'vous', 'vous', 'que', 'vous', 'Médecine', 'de', 'Il', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'de', '<speaker>Nic', 'Kim</speaker>']  7.290245807398516e-232
+['Et', ':', 'une', 'une', 'à', 'à', 'de', 'de', 'de', 'de', 'de', 'que', 'que', 'que', 'que', 'que', 'que', 'et', 'et', 'et', 'et', 'Et', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  9.991966320509228e-232
+['Et', 'je', 'que', 'que', 'que', 'que', ':', ':', ':', 'que', 'que', 'de', 'de']  8.226364521884694e-232
+['<keywords>talks,', 'Jorgensen', ':', ':', ':', ':', ':', ':', ':', ':', ':', 'de', 'de', 'là?"']  7.601743498890168e-232
+['<translator']  0
+['Et', 'la', 'a', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'saurons', 'saurons', 'de', 'de', 'boucaniers', 'boucaniers', 'boucaniers', 'boucaniers']  5.550958223573118e-232
+['<title>Jennifer', 'Killingsworth:', 'Lee', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  6.867371326126471e-232
+['Comment', 'que', 'que', 'de', 'de', 'de', 'de', 'de']  5.116994679231889e-232
+['Je', 'une', 'une', 'de']  0
+['Pourquoi', 'étape:', 'procurent-ils', "j'obtiens?", 'nait.', 'Youpi']  0
+['Vous', 'que', 'vous', 'pas', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'de', '?', '?']  7.057440226290797e-233
+['Comment', ':', ':', 'Comment', ':', ':', 'Comment', 'Comment', 'Comment', 'Comment', 'Comment', 'Comment', 'Comment', 'que', 'que']  0
+['Certains', ':', ':', ':', 'Schacht', 'philosophes', 'et', 'et', 'la', 'la', 'futur</title>']  0
+['Comment', 'que', 'que']  3.226662458910993e-236
+['<title>Janet', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'approuvez', 'collectés', 'collectés', 'collectés', 'et', 'la', 'analysés', 'analysés']  0
+['<title>Mikko', 'Hypponen:', ':', 'JR', 'que', 'trahi', 'trahi', 'trahi', 'trahi', 'que', 'que', 'collectés', 'collectés', 'que', 'que', 'de', 'de', 'de', 'Et', 'est']  8.614911585158347e-232
+['Il', 'Hypponen:', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'collectés', 'collectés', 'collectés', 'la', 'de', 'de', 'de', 'analysés', 'analysés', '<title>Micheal', 'Pollan', ':', 'propos', 'de', 'de', 'de', 'plante</title>', 'plante</title>']  1.0332112772921225e-231
+['<title>Mikko', 'Hypponen:', ':', ':', 'Ai-je', 'Ai-je', ':', ':', ':', ':', ':', ':', 'de', 'de', 'Ramu.', 'de', 'de', 'de', '<title>Jennifer', 'Hill', 'Lee', 'les', 'de', 'de', 'de', 'de', 'de', 'de']  7.919883909890055e-232
+['Je', 'je', 'que', 'que', 'de', 'as-tu', '"Pourquoi', 'de', 'mots?"']  3.87211447745904e-234
+['Et', 'la', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<speaker>Erin', 'Garniez</speaker>']  0
+['<title>Andreas', 'Raptopoulos:', ':', ':', 'scandale', 'Stephen', 'Hawking', 'de', 'mondial</title>']  0
+['Nous', 'avons', 'des', 'des', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<title>Brian', 'Iwasa:', ':', 'JR', 'vœu', 'vœu', 'Prix', 'Prix', 'Prix', 'les', 'les', 'et', 'de', 'de', 'heureux</title>']  0
+['Nous', 'Besser', 'a', 'de', 'de', 'de', 'terroristes,', 'terroristes,', "d'avant-garde", 'et', 'et', 'des', 'et', 'et', 'et', 'et', 'et', 'Tosca', 'Tosca', 'Tosca', 'Et', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'vérrouillés,', 'bannis', 'bannis', 'de', 'de', '?']  7.490163752058132e-232
+['Nous', 'avons', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  7.445183326929416e-232
+['Où', 'Levin:', 'procurent-ils', 'peut-elle', 'de']  0
+['<title>Nate', 'Eggers', 'Goodwin', 'de', 'de', 'de', 'Prix', 'Prix', 'Prix', 'et', 'et', 'et', 'fois...', 'fois...', 'hypothèse</title>']  5.287621839041434e-232
+['Et', 'comment', 'le', 'là!']  0
+['<title>Mélinda', 'French', ':', ':', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  2.8022456267190536e-232
+['<speaker>Jae', '!']  0
+['Comment', 'Lomborg', 'Lee', 'de', 'de', 'de', 'de']  0
+['Comment']  0
+['Et', 'je', 'que', 'état,', 'état,', 'Ai-je', '"Jamie,', 'PLM,', 'dénouement', 'dénouement', 'de', 'atteindre,', 'atteindre,', 'Journal', 'de', 'de', 'de', 'Comment', 'que', ':', 'fuites', 'de', 'le']  0
+['<keywords>talks,', 'Iran,', 'Lee', 'disaster', 'relief,', 'de', 'de', 'de']  7.267694951003451e-233
+['<title>Nate', 'Bittman', ':', 'la', 'de', 'de', 'comportementales', 'de', 'de', 'de', 'de', 'fatales</title>']  8.285726588482745e-232
+['Et', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'de', 'de']  0
+['Est-ce', 'que', 'nous', 'nous', 'de', 'plaît', 'plaît', 'plaît', 'de', 'de', 'lentilles', 'lentilles', 'lentilles', 'lentilles', 'contact,', 'contact,', 'contact,', 'contact,', 'de', 'de', 'de', 'Comment', ':', ':', 'venus', 'venus', 'de', 'de', 'et', 'et', 'et', 'alibi,', 'de', 'plonge', 'que', 'que', 'que', 'la', 'la']  0
+['<title>Mikko', 'Hypponen:', 'que', 'que', 'Ai-je', 'Ai-je', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Il', "L'étirement."]  8.614911585158347e-232
+['Et', 'je', 'que', 'que', 'de', 'vous', 'vous', 'vous', 'vous', 'que', 'que', 'vous', 'que', 'Journal', 'Médecine', 'Médecine']  9.109159947227211e-232
+['<title>Danny', 'Hillis', ':', ':', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'réclamer</title>']  0
+['<keywords>talks,', 'Raptopoulos:', ':', 'bloquées', 'de', 'de', 'France?"']  1.1584775193308406e-233
+['Comment', ':', ':', 'de', 'de', 'de', 'la']  3.2026463967087104e-234
+['Pourquoi', 'étape:', 'surgiraient?', "j'obtiens?", 'nait.']  0
+['Et', 'que', ':', ':', ':', 'que', 'que', 'de', 'Gandhi?']  3.5384650434980955e-233
+['<title>Mikko', 'Hypponen:', 'TED', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'race', 'race', 'race', 'la', 'le', 'le', 'analysés', 'réagir.</title>', 'réagir.</title>']  1.0377133938315695e-231
+['Les', 'que', 'de', 'de', 'de', 'de', 'arthroplastie', 'arthroplastie', 'de', 'de', 'de', 'de', 'de', 'de']  1.1200407237786664e-231
+['Et', 'la', 'nous', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'chirurgie', 'de', 'de']  8.432700096708783e-232
+['Je', 'une', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Comment', 'Frères', 'que', "j'obtiens?", 'le', 'plaisantent</title>']  8.06798322521923e-232
+['Franchement,', 'Rhodes', 'a', 'soucie', 'de', 'de', 'de', 'de', 'Oakley', 'Oakley', 'Maria', 'Maria', 'Maria', 'Maria', 'Callas', 'Callas', 'et', 'Tosca', 'Tosca', 'Tosca', 'Tosca', 'Tosca', 'de', 'Et', 'la', 'que', 'de', 'de', 'de', 'tendent', 'tendent', 'n’est-il', 'récupéré', 'récupéré', 'perpétuation', 'perpétuation', 'biote,', 'biote,', 'de', 'de', 'de']  3.505126972195164e-155
+['<title>Elizabeth', 'Krane:', 'Lee', 'propos', 'de', 'Stephen', 'façonne', 'chronique</title>']  7.299000901566828e-234
+["Qu'en", 'survivre?']  0
+['Et', 'je', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'vous?"', 'vous?"', 'de']  3.836350663662548e-232
+['Comment', 'Kalman,', 'Miracle', "j'obtiens?", 'nait.', 'Youpi']  0
+['Nous', 'avons', 'des', 'des', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'de']  0
+['Nous', 'Besser', 'a', 'de', 'de', 'de', 'de', 'Oakley', 'Oakley', 'Oakley', 'de', 'Callas', 'Callas', 'Callas', 'Callas', 'et', 'et', 'Tosca', 'Tosca', 'Tosca', 'Tosca', '<speaker>Leymah', 'Rhim']  0
+['<title>Danny', 'Hillis', ':', 'les', 'de', 'astronomes', 'de', 'de', 'de', 'de', 'de']  2.801700584692622e-232
+['<translator']  0
+['Franchement,', 'Hypponen:', 'a', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'de', 'de', "Qu'en", 'invente']  2.098102323188172e-232
+['Et', 'ne', 'que', 'que', 'de', 'que', 'que', 'de', 'de']  2.4059115299997964e-233
+['<title>Aubrey', 'Mullis', ':', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'fatales</title>']  0
+['Et', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'de']  0
+['<title>Mikko', 'Hypponen:', 'a', 'de', 'remplacements', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'de', 'de', 'de']  0
+['Et', 'la', 'que', 'état,', 'de', 'affichez', 'de', 'dénouement', 'dénouement', 'dénouement', 'et', 'atteindre,', 'atteindre,', 'atteindre,', 'de']  0
+['Et', 'vous', 'vous', 'pas', 'vous', 'vous', 'pas', 'pas']  0
+['<title>Nate', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'Prix', 'de', 'de', 'et', 'de', 'de', 'de']  0
+['Et', 'fait-elle', 'que', 'que', 'de', 'de', 'de', 'débattre', 'débattre', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'de', 'de']  0
+['Je', 'fait-elle', 'une', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'biote,', 'biote,', 'de', 'de', 'de', 'Quid', 'survivre?']  0
+['Et', 'nous', 'a', 'reconnectent', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'contact,', 'de', 'de', 'de', 'de']  3.75280463913517e-233
+['Et', 'Killingsworth:', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '?']  0
+['<title>Jennifer', 'Killingsworth:', 'Lee', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Tso</title>']  6.954003198833439e-232
+['Et', ':', ':', ':', 'a', 'de', 'que', 'que', 'de', 'de', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', '<title>Nick', 'Bostrom', ':', 'les', 'de', 'de', 'de', 'de', 'plante</title>', 'plante</title>']  9.961243570564485e-232
+['Et', 'nous', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'vérrouillés,', 'de', 'de', 'de']  6.531097185393997e-232
+['Je', 'je', ':', '"Bien,', ':', 'vous', 'que', 'que', 'que', 'de', '?"']  2.801700584692622e-232
+['<title>Neil', 'Jorgensen', ':', ':', 'Biohacking', 'Biohacking', 'la', 'la', 'affecte-t-elle', 'de', 'faire.</title>', 'faire.</title>']  0
+['Il', 'que', 'a', 'soucie', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Vous', 'que', ':', 'pas', 'pas', 'de', 'de']  0
+['Et', 'fait-elle', 'que', 'pouvez-vous', 'de', 'de', 'tendent', 'trahi', 'nous', 'perpétuation', 'perpétuation', 'perpétuation', 'perpétuation', 'biote,', 'biote,', 'de', 'de']  8.972141065609098e-232
+['Et', 'la', 'que', 'nous', 'de', 'nous', 'nous', 'nous', 'n’est-il', 'récupéré', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  8.844844403089351e-232
+['Et', 'Hypponen:', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Comment', 'pleures-tu?"', 'creativity</keywords>']  7.377537590653837e-232
+['Et', 'que', 'poète,', 'de', 'philosophe,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de', 'de', 'de', '<speaker>Eric', 'McCarthy</speaker>']  9.709385502639237e-232
+['Et', 'que', 'que', 'pas', 'pas', 'de']  0
+['Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de']  4.470798758996407e-233
+['Et', 'je', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'BF:', ':', 'Une']  0
+['<title>Jennifer', 'French', 'dîtes-vous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de']  6.686350417856737e-232
+['Et', 'Hypponen:', 'nous', 'nous', 'TED', 'Ai-je', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Beijing', 'sang']  2.9310002684209375e-232
+['Et', 'la', 'que', 'de', 'de', 'abondant', 'abondant', 'n’est-il', 'n’est-il', 'récupéré', 'récupéré', 'récupéré', 'de', 'de', 'de', 'de', 'de', '<speaker>Beeban', 'Kidron</speaker>']  8.861446285415942e-232
+['Mais', 'y', 'a', 'pas', 'que', 'que', 'de', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Chimborazo,', "l'art?"]  8.412065649527267e-232
+['Mais', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'Les', 'ne', 'des', 'de', 'de', 'de', 'de', 'de']  3.740025822485607e-232
+['Et', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Journal', 'Journal', 'Journal', 'Médecine', 'Médecine', 'La', 'que', ':', ':', 'de', 'de', 'de', 'de', 'plante</title>']  0
+['<title>Andreas', 'ajouta,', 'les', 'de', 'Pense-t-elle', 'de', 'de', 'de', 'de']  1.342376123197744e-232
+['Et', 'la', 'que', 'de', 'de', 'Loony', 'Loony', 'Tunes', 'Tunes', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Bip', 'Bip?', '<title>Maira', 'Kalman,', 'des', 'Rénover', 'illustrée</title>']  1.0381944559302446e-231
+['<keywords>talks,', 'TED', 'Lee', 'Sexe,', 'drogues', 'de', 'gaspillage', 'récolte', 'rationnels</title>']  0
+['Et', 'la', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<speaker>Beeban', 'Kidron</speaker>']  8.319100378795605e-232
+['Et', 'la', 'nous', 'de', 'de', 'de', 'de', 'la', 'de', 'de', 'de', 'de', 'de']  0
+['DG:', ':', ':', ':', ':', ':', ':', 'que', 'Comment', 'que', 'que', 'que', 'pulmonaire']  0
+['<title>Andreas', 'Pisani', ':', 'Sexe,', 'drogues', 'Stephen', 'la', 'gaspillage', 'devenons', 'rationnels</title>']  0
+['Et', 'la', 'que', 'de', 'de', 'Loony', 'Loony', 'Tunes', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<title>Renny', 'Gleeson', ':', 'propos', 'de', 'de', 'de', "d'algues"]  0
+['DG:', ':', ':', ':', 'Schacht', 'Schacht', 'de', 'de', 'de', 'de', 'que', 'que', 'que', 'que', 'Et', 'que', 'la', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  8.06798322521923e-232
+['Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'éternelle,', 'éternelle,', 'éternelle,', 'éternelle,', 'éternelle,', 'pas', 'pas', 'pas', 'pas', 'pas', 'de', 'de', 'Chris', ':', ':', ':', 'Schacht', 'de', 'et', 'et', 'et', 'et', 'plonge', 'plonge', 'et']  7.544641259221007e-232
+['Imaginez', ':', 'a', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'la', 'la', 'la', 'de', 'de', 'de', "C'est", 'sang', '!']  0
+['Et', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', "C'est"]  1.0377133938315695e-231
+['<keywords>talks,', 'Europe,', ':', 'stupides,', 'p...', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<keywords>talks,', 'String', 'theory,', 'état,', 'rétrospectivement,', 'TED', 'de', 'et', 'et', 'et', 'et', 'et', 'Journal', 'Médecine', 'Médecine']  0
+['Et', 'nous', 'a', 'de', 'de', 'de', 'de', 'nous', 'nous', 'nous', 'nous', 'nous', 'nous', 'de', 'de', 'de']  0
+['Et', 'la', 'que', 'de', 'atypiques', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'nous', 'tournent', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'courant."', 'de', 'de']  5.019362538473707e-155
+['Et', 'Hypponen:', 'nous', 'nous', 'de', 'Ai-je', 'de', 'nous', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<talkid>1642</talkid>']  2.783795410278966e-232
+['Et', 'savons-nous', 'que', 'fuites', 'de', 'sacrifier?']  0
+['Les', 'Hypponen:', ':', 'JR', 'NSA', 'trahi', 'trahi', 'trahi', 'trahi', 'approuvez', 'collectés', 'collectés', 'collectés', 'la', 'la', 'analysés', 'analysés', 'analysés', 'Et', 'la', 'nous', 'de', 'de', 'de', 'de', 'débattre', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Et', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  8.285726588482745e-232
+['<title>Janet', 'Iwasa:', ':', 'JR', 'de', 'trahi', 'trahi', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'peints']  3.8352168311060234e-233
+['Et', 'fait-elle', 'que', 'de', 'Ai-je', 'Ai-je', 'Ai-je', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Et', 'que', 'de', 'de', 'de', 'de', 'messageries', 'messageries', 'de', 'de', 'de', '?']  0
+['Est-ce', 'nous', 'les', 'les', 'de', 'de', 'de', 'primitifs,', 'de', 'de', '?']  0
+['<title>Mikko', 'nous', 'nous', 'de', 'de', 'de', 'de', ':', 'de', 'de', 'de', 'de', 'de', 'tués']  0
+['Est-ce', 'barons', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'chirurgie', 'chirurgie', 'analysés', 'hanche.', 'Comment', ':']  7.737347826079093e-232
+['Et', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'dénouement', 'dénouement', 'que', 'que', 'que', 'atteindre,', 'atteindre,', 'de', 'de', 'de', 'de', '<title>Jennifer', 'Pollan', 'Lee', 'de', 'de', 'de', 'de', 'de', 'de', 'plante</title>']  8.713948309814814e-232
+['Merci', 'beaucoup.']  0
+['Je', 'je', 'vous', 'vous', 'vous', 'vous', 'demandions', 'demandions', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', '<speaker>Raspyni']  2.1744622708310304e-232
+['Et', ':', 'Lee', 'que', 'de', 'de', 'de', 'de', 'de', 'de']  6.213854539426459e-232
+['Et', 'que', 'que', 'pas']  0
+['<title>Neil', 'Jorgensen', ':', ':', 'Biohacking', 'demandait,', 'la', 'la', 'la', 'de', 'de', 'faire.</title>']  0
+['Pourquoi', 'étape:', 'surgiraient?', 'visage?', 'nait.']  0
+['Et', 'savons-nous', 'fréquence', 'fuites', 'évadons-nous', 'de', 'France?"']  7.296382734947757e-232
+['Et', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', '?']  6.4865761664551965e-233
+['Et', 'je', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous?"', 'vous?"', 'vous?"', 'Et', 'que', 'que', 'de', 'de', 'de']  7.053293049816924e-232
+['Comment', ':', ':', 'que', 'de', 'de', 'de', 'de', 'de']  0
+['Je', 'je', 'vous', 'vous', 'vous', 'affichez', 'que', 'que', 'que', 'que', 'que', 'vous?"', 'vous?"', 'vous?"', 'grimace']  0
+['Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de']  8.972141065609098e-232
+['Comment', 'comment', 'que', "j'obtiens?"]  1.057443375777407e-232
+['Mais', 'nous', 'a', 'de', 'publient', 'publient', 'et', 'et', 'cherches,', 'cherches,', 'et', 'et', 'et', 'appartenez?', 'de', 'de', '<talkid>1095</talkid>']  8.972141065609098e-232
+['Et', 'il', 'd’autre', 'de', 'de', 'de', 'et', 'la', 'de', 'de', 'de', 'de']  0
+['Et', 'la', 'nous', 'de', 'de', 'à', 'de', 'débattre', 'débattre', 'de', 'de', 'de', 'de', 'chirurgie', 'chirurgie', 'chirurgie', 'de', 'hanche.']  4.324223740015325e-232
+['<title>Mikko', 'Hypponen:', 'les', 'convaincus', 'de', 'de', 'de', 'de', 'la', 'de', 'de', 'de', 'de', 'de']  0
+['<keywords>talks,', 'Hypponen:', ':', 'JR', ':', 'trahi', 'trahi', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<title>David', 'Kalman,', ':']  0
+['Vous', 'étape:', 'ressembleraient', 'de', 'nait.']  2.0348224547965773e-236
+['Quid', 'mangez-vous?']  0
+['<keywords>talks,', 'String', 'Laptop', 'TED', 'TED', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Alors', 'que', 'que', 'pas', 'pas', '?']  0
+['Et', 'que', 'que', 'fais?', 'vous', 'vous']  0
+['Comment', 'que']  0
+['Comment', 'que', 'que', "j'obtiens?", 'de']  9.97486269044271e-232
+['Alors,', 'protégez-vous', 'que', 'visage?', "n'utilises"]  0
+['Comment', 'Seung:', 'que', 'fuites', 'le', 'sacrifier?']  0
+['Et', 'je', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'Médecine']  9.109159947227211e-232
+['Comment', 'que', 'procurent-ils', 'de', 'nourriture?']  0
+['Est-ce', 'Hillis', 'tournent', 'de', 'de', 'de', 'de', 'de', 'smartphone,', "l'enterrement", 'de', 'de']  0
+['Nous', 'guérison', 'les', 'les', 'de', 'de', 'trahi', 'approuvez', 'approuvez', 'approuvez', 'approuvez', 'collectés', 'collectés', 'et', 'et', 'analysés', 'analysés', 'analysés', 'analysés', '<keywords>talks,', 'Asia,', 'Conference,', 'culture,', 'culture,', 'global', 'issues,', 'change</keywords>']  5.453184219411178e-232
+['Je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'Comment', 'Frères', 'Raspyni', 'jonglent', 'de']  9.788429383461836e-232
+['Et', 'je', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'que', 'de', 'de', 'de', 'de']  4.897598518002708e-232
+['Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de']  0
+['<speaker>Janna', 'Dyson</speaker>']  0
+['Et', 'Hypponen:', 'que', 'TED', 'Ai-je', 'Ai-je', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'exagérées', 'de', 'Pourquoi', 'que', ':', 'de', 'de', 'de', 'de', 'de', 'la']  8.06798322521923e-232
+['Et', 'une', 'que', 'état,', 'de', 'de', 'de', 'dénouement', 'dénouement', 'dénouement', 'et', 'atteindre,', 'atteindre,', 'atteindre,', 'de', 'de', 'Comment', 'Kalman,', 'le']  8.726094729337945e-232
+["C'est", ':', 'maléfiques']  0
+['<title>Maira', 'Kalman,', 'surgiraient?', 'de', 'illustrée</title>']  0
+['Et', 'ne', 'pas', 'pas', 'que', 'que', 'ne', 'pas', 'pas', 'de']  0
+['Vous', 'que', 'pas', 'pas', 'pas', 'Youpi']  0
+['Je', 'que', 'que', 'de', 'p...', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Pourquoi', 'que', ':', ':', ':', 'que', 'que', 'croisiez', 'croisiez']  0
+['Et', 'fait-elle', 'que', 'que', 'de', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'perpétuation', 'de', 'et', 'biote,', 'biote,', 'de', 'de', 'de', 'Pourquoi', 'que', ':', ':', ':', 'de', 'de', 'Grande-Bretagne', 'de', 'de', 'de']  7.784451369270533e-232
+['<title>Mark', 'MacGregor', ':', ':', 'de', "d'histoire", 'de']  4.3934790388606745e-234
+['Les', 'ne', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'je', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'que', 'que', 'que', 'que', 'que', 'de']  0
+['<title>Tristram', 'Steel', 'Lee', 'propos', 'de', 'de', 'façonne', 'façonne', 'mondial</title>']  0
+['Et', 'que', 'que', 'que', 'de', 'que', 'que', 'que', 'de', '?']  1.0244914152188952e-231
+['<title>Jonathan', 'TED', ':', "L'énergie", 'Musique', 'peuvent-elles', 'peuvent-elles', "d'algues", '?</title>']  0
+['Et', 'que', 'que', 'que', 'que', 'que', 'Loony', 'Tunes', 'Tunes', 'lentilles', 'lentilles', 'lentilles', 'lentilles', 'lentilles', 'contact,', 'contact,', 'contact,', 'de', 'de', 'de', 'Bip', 'Comment', 'Lee:', ':', 'de', 'de', 'de']  9.50440384721771e-232
+['Mais', 'question', ':', "m'enlever", 'valve?', 'que', 'de', 'de', 'fini?', '?']  3.6695469123219324e-232
+['Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'que', 'que', 'que', 'que', 'de', 'de', 'de']  8.726094729337945e-232
+['Et', 'la', 'que', 'de', 'de', 'de', 'de', 'et', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de']  4.422211777011935e-232
+['Je', 'je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de']  1.0003688322288243e-231
+['Et', 'vous', 'que', 'que', 'de']  0
+['Mais', 'Bittman', ':', ':', 'de', 'de', 'la', 'de', 'de', 'alimentation</title>']  2.8638898911433973e-155
+['Quid']  0
+['Et', 'que', 'que', 'pas', 'de', 'que', 'que', 'que', 'de', 'de', '?']  7.916504037467065e-232
+['Et', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<title>Andreas', 'la', 'Lee', 'de', 'de', 'de', 'de', 'de', 'de', 'histoires</title>']  7.784451369270533e-232
+['Quelles', 'les', 'les', 'les', 'de', 'de', 'société?']  0
+['Nous', 'avons', 'des', 'le', 'de', 'de']  1.861075366666417e-232
+['Je', 'je', 'vous', 'état,', 'vous', 'vous', 'vous', 'dénouement', 'dénouement', 'dénouement', 'dénouement', 'atteindre,', 'atteindre,', 'atteindre,', 'atteindre,', 'atteindre,', 'de', 'Quid']  8.366864314109379e-232
+['<title>Mikko', 'Hypponen:', ':', ':', 'de', 'vœu', 'trahi', 'trahi', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'de', '<title>Mark', 'Shaw', ':', 'Rénover', 'Virtuelle', 'imperméable</title>']  0
+['Et', 'la', 'que', 'de', 'de', 'de', 'de', 'débattre', 'débattre', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'de', 'de', 'de', '<talkid>1095</talkid>']  6.707335833108077e-232
+['Vous', 'protégez-vous', 'ça', 'pas', 'pas']  0
+['Et', 'la', 'prédiction', 'sucrée?']  0
+['Il', 'que', 'a', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'pas', 'pas', 'Et', 'la', 'a', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'biote,', 'chirurgie', 'chirurgie', 'de', 'hanche.']  0
+['Et', 'nous', 'nous', 'de', 'de', 'de', 'de', 'minimale', 'de', 'vérrouillés,', 'de', 'de', 'de', 'de', '?']  0
+['Beijing', 'biogiciel.']  0
+['Comment', 'Hill', 'Comment', 'les', 'sont-elles', 'de', 'de', 'de', 'de', '?']  0
+['<title>Lee', 'ajouta,', ':', 'pas', 'évadons-nous', 'de', 'France?"']  0
+['Pourquoi', 'Kalman,', 'que', "j'obtiens?", 'apprend?".']  0
+['Leslie', 'Logan:', 'le', 'le']  0
+['Nous', 'Dyson', ':', 'les', 'de', 'pommes.', 'de', 'de']  0
+['<title>Brian', 'Greene', ':', ':', 'Biohacking', 'demandait,', ':', 'la', 'de', 'de', 'de', 'faire.</title>']  0
+['Mais', 'étape:', 'ressembleraient', 'de', 'de']  8.166726842395623e-232
+['<title>Andreas', 'Raptopoulos:', ':', 'bloquées', 'éthiques', 'adoptez', 'de', 'de', 'semaine.</title>']  0
+['Je', 'Seung:', 'que', 'que']  0
+['Et', 'je', 'vous', 'que', 'que', 'affichez', 'que', 'que', 'que', 'que', 'que', 'que', 'vous?"', 'pas', 'grimace']  0
+['Mais', 'ne', ':', ':', ':', 'la', 'de', 'de', 'de']  0
+['Merci', 'fou,']  0
+['Et', 'nous', 'nous', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'efficacement.', 'efficacement.']  1.0518351895246305e-231
+['Comment', ':', ':', 'de', 'de']  1.4957881974825052e-233
+['<keywords>talks,', 'TED', 'Conference,', ':', ':', ':', ':', ':', ':', 'et', 'de', 'de', 'de']  0
+['Nous', 'avons', ':', 'de', 'de', 'drogué', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'de']  0
+['Et', 'une', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  3.9398965821502446e-232
+['Je', 'ne', 'que', 'pas', 'pas', 'de', 'de']  8.416851712392762e-232
+['Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'dénouement', 'que', 'que', 'que', 'Journal', 'Journal', 'Journal', 'Médecine', 'Médecine', "Qu'est-ce", 'que']  8.726094729337945e-232
+['Et', 'que', 'd’autre', 'que', 'rétrospectivement,', 'que', ':', 'que', 'que', 'que', 'que', 'de', 'de']  9.594503055152632e-232
+['Et', 'fait-elle', 'que', 'de', 'de', 'de', 'tendent', 'tendent', 'nous', 'de', 'perpétuation', 'perpétuation', 'perpétuation', 'biote,', 'biote,', 'de', 'détruire?']  7.976321023897754e-232
+['Et', 'la', 'que', 'reconnectent', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Et', 'nous', 'nous', 'nous', 'de', 'de', 'Ai-je', 'débattre', 'de', 'de', 'de', 'de', 'de', 'de', 'chirurgie', 'chirurgie', 'chirurgie', 'de', 'hanche.']  7.290245807398516e-232
+['<translator', 'Edry</speaker>']  0
+['Vous', 'que', ':', ':', 'sait-on', 'vous', 'vous', 'vous', 'pas', 'pas']  0
+['Je', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  1.1337861261109773e-231
+['<title>David', 'Dunham-Jones', '+', 'Rénover', 'le', 'banlieues</title>']  0
+['Comment', 'allons-nous', 'fait-on', 'de']  0
+['Et', 'la', 'narration,', ':', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'récréation']  9.788429383461836e-232
+['Mais', 'ne', ':', ':', ':', 'demandait,', 'vous', 'vous', 'vous', 'pas', 'de']  0
+['Et', 'que', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'la', 'de', 'de', 'de', 'de']  0
+['Mais', 'ne', ':', 'le', 'de', 'la', '?']  9.709385502639237e-232
+['<title>Maira', 'Kalman,', ':', 'pas', 'illustrée</title>', 'illustrée</title>']  0
+['<title>Mikko', 'Hypponen:', 'nous', 'de', "j'entendis", 'Ai-je', 'Ai-je', 'supplier', 'supplier', 'de', 'de', 'de', 'de', 'de', 'de', 'chirurgie', 'chirurgie', 'de', 'de', 'Et', 'nous', 'a', 'de', 'de', 'de', 'de']  0
+['Je', 'Seung:', 'que', 'pas', 'pas', 'sacrifier?']  0
+['<translator', 'href="http://www.ted.com/profiles/239263">Elisabeth']  0
+['Il', 'nous', 'a', 'arrêtions', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Comment', 'que']  8.510469113101058e-232
+['<title>Andreas', 'Dyson', ':', 'les', 'de', 'de', 'de', 'de', 'la']  0
+['<title>Jonathan', 'Pollan', ':', 'les', 'de', 'de', 'de', 'plante</title>']  1.0832677820940877e-231
+['Mais', 'que', 'vous', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', '<speaker>Rob', 'Hopkins</speaker>']  0
+['Nous', 'Mullis', ':', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'présidents</title>']  0
+['Mais', 'ne', ':', 'pas', 'pas']  0
+['Il', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'la', "l'huile", 'qui', 'de', 'de', 'de', 'de', 'Quid', 'est-il']  0
+['Et', 'je', 'que', 'état,', 'état,', 'vous', '"Jamie,', 'PLM,', 'dénouement', 'dénouement', 'que', 'atteindre,', 'atteindre,', 'Journal', 'Médecine', 'Médecine']  0
+['Pourquoi', 'que', 'que', 'que', 'pas', '?']  0
+["Qu'est-ce", 'Kalman,', 'le', 'de', 'illustrée</title>']  0
+['La', 'que', 'a', 'pas', 'que', 'que', 'de', 'de', 'de', 'fan', 'fan', 'fan', 'de', 'baseball!']  0
+['<title>Jonathan', 'Bostrom', ':', 'les', 'de', 'de', 'de', 'de', 'évoluer</title>']  0
+['<title>Mikko', 'Hypponen:', 'Laptop', 'Per', 'Ai-je', 'Ai-je', 'Ai-je', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Vous', "d'homme", 'est', 'de', 'de', 'de', 'de']  0
+['Je', 'que', 'que', 'pas', 'que', 'que', 'pas', 'de']  0
+['<title>Jennifer', 'la', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<keywords>talks,', 'TED', 'Conference,', 'biosphere,', 'crime,', 'global', 'global', 'prison,', 'statistics</keywords>']  0
+['Et', 'nous', 'nous', 'reconnectent', 'de', 'de', 'de', 'débattre', 'débattre', 'de', 'de', 'de', 'de', 'de', 'de', 'chirurgie', 'de', 'de', 'de', 'Il', 'y', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Et', 'la', 'nous', 'stupides,', 'rétrospectivement,', 'rétrospectivement,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Majuscules?"']  0
+['<title>Mark', 'Dyson', ':', 'les', 'de', 'de', 'de', 'ville</title>']  1.0832677820940877e-231
+['Comment', 'comment', 'cela?']  0
+['<title>Mark', 'Dyson', ':', 'les', 'de', 'de', 'de', 'ville</title>']  0
+['Et', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Bip', 'Et', 'se', 'ressemblent-ils', 'là!']  8.147480343967206e-232
+['<title>Mikko', 'Hypponen:', ':', "j'entendis", "j'entendis", ':', ':', 'et', 'et', 'de', 'qui', 'qui', 'qui', 'chirurgie', 'chirurgie', 'de', 'de', 'hanche.']  6.744160953836975e-232
+['<title>Mikko', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'de', 'collectés', 'collectés', 'collectés', 'la', 'la', 'de', 'de', 'analysés', 'Beijing']  0
+['Je', 'je', 'que', 'que', 'p...', 'de', 'de', 'de', 'de', 'de']  5.087473806581661e-232
+['Je', 'je', 'je', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'pas', 'de', 'de', 'BF:', ':', '?']  0
+['Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', '<speaker>Eric', 'deCharms</speaker>']  0
+['Je', 'Seung:', 'que', 'seringues', "n'utilises", 'sacrifier?']  0
+['Pourquoi', 'Kalman,', 'surgiraient?', "j'obtiens?", 'apprend?".']  0
+['Je', 'je', 'que', 'que', 'que', 'que', 'de']  0
+['Il', 'barons', 'a', 'de', 'pollinisation,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Quid']  0
+['Et', 'que', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'de', 'Goûtez', '!', '!']  8.726094729337945e-232
+['Les', 'nous', ':', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'de']  3.357202159889882e-232
+['Nous', 'nous', ':', 'garons', 'publient', 'publient', 'publient', 'parking,', 'parking,', 'et', 'meilleur,', 'meilleur,', 'meilleur,', 'réduisez', 'réduisez', 'stigmate']  2.738929881729733e-232
+['Nous', 'avons', 'les', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'analysés', 'analysés', 'peints', 'Comment', "l'utiliserons-nous?", 'creativity</keywords>']  0
+['Les', 'avons', 'des', 'de', 'de']  6.54384673568429e-234
+['<title>Mikko', 'Hypponen:', 'que', 'la', 'de', 'de', 'de', 'trahi', 'et', 'et', 'la', 'de', 'la', 'la', 'et', 'et', 'et', 'de', 'de', 'Est-ce', 'que', 'les', 'de', 'de', '?']  8.147480343967206e-232
+['Et', 'la', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Mais', 'a', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'la', 'la', 'et', 'et', 'et', 'et', 'de', 'de', 'de', 'Quid']  2.4840097637544703e-155
+['Et', 'la', 'd’autre', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  1.1640469867513693e-231
+['Je', ':', 'diffuser', ':', 'vacances,']  0
+['Et', 'je', 'que', 'pas', 'que', 'que', 'ne', 'pas', 'pas', 'pas']  0
+['Comment', ':', 'que', 'surprendraient', 'de', 'de', 'de', 'de', '?']  0
+['Et', 'la', '"Était-il', 'de', 'de', 'de']  4.0907691635338574e-237
+['Est-ce', 'Hill', 'les', 'les', 'de', 'de', 'de']  0
+['Je', 'ne', 'que', 'pas', 'de', 'de', 'de', 'de', 'de']  6.034940380417626e-232
+['<title>Nate', 'French', ':', ':', ':', 'vœu', 'Prix', 'Prix', 'que', 'nous', 'que', 'que', 'de', 'de']  4.952072620509839e-232
+['Et', 'la', 'a', 'de', 'publient', 'publient', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de', 'de', 'de', 'hanche.', 'Comment', 'comment', 'le']  0
+['Et', 'je', 'que', 'que', 'que', 'que', 'de', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'que', 'que', 'que', 'de', 'de', 'de', 'Très', 'les', 'Goodwin</speaker>']  0
+['<title>Maira', 'Kalman,', '+', 'de', 'illustrée</title>', 'illustrée</title>']  5.619960642505782e-234
+['Et', 'la', 'poursuivi', 'mathématique', 'de', 'de', 'de', 'de', 'de', 'de', 'retrouve-t-elle']  1.0132508355374523e-232
+['Et', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+["C'est", '!']  0
+['Merci', 'beaucoup.']  0
+['<title>Nick', 'Bostrom', ':', 'les', 'de', 'de', 'de', 'de', 'plante</title>']  0
+['Et', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'pas', 'pas', 'de']  0
+['<title>Danny', 'Hillis', ':', ':', ':', 'planter.', ':', ':', 'de', 'de', 'de', 'B.</title>']  5.9764165035645784e-232
+['La', 'que', 'a', 'de', 'publient', 'publient', 'publient', 'de', 'et', 'de', 'de', 'et', 'et', 'de', 'de', 'de']  1.0832677820940877e-231
+['Comment', 'Frères', 'Raspyni', 'jonglent', 'nait.', 'plaisantent</title>']  0
+['Je', 'je', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'vous', 'que', 'que', 'que', 'que', 'de', '<keywords>talks,', 'String', ':', ':', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  7.720899511627474e-232
+['Nous', 'avons', 'a', 'de', 'de', 'de', 'terroristes,', 'terroristes,', 'et', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'de', 'Tosca', 'Tosca', 'de', 'Comment', 'est-ce', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de']  0
+['L\'acceptez-vous?"']  0
+['Comment', 'comment', 'ressemblent-ils']  0
+['Et', 'la', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'la', 'et', 'et', 'de', 'de']  6.205370489820507e-232
+['Très', ':', "l'accès", 'de']  0
+['Et', 'nous', 'a', 'de', 'de', 'de', 'de', 'débattre', 'débattre', 'de', 'de', 'qui', 'qui', 'chirurgie', 'chirurgie', 'chirurgie', 'hanche.', 'hanche.']  8.844844403089351e-232
+['Mais', 'ne', 'ne', 'pas', 'pas', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'pas']  0
+['<title>Janet', 'Iwasa:', ':', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'hypothèse</title>']  0
+['Comment', 'comment', 'que']  0
+['<title>Nate', 'Silver', ':', 'JR', 'de', 'Prix', 'Prix', 'Prix', 'la', 'et', 'et', 'de', 'de']  0
+['Comment', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Je', 'je', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'que', 'que', 'que', 'que', 'de', 'de', '<title>Neil', 'que', 'd’autre', ':', 'taxi', 'ramenait', 'Grande-Bretagne', 'Grande-Bretagne', 'Grande-Bretagne', 'transmettons-nous', 'de', 'de']  0
+['<title>Maira', 'Kalman,', 'des', 'Rénover', 'illustrée</title>', 'illustrée</title>']  0
+['Il', 'volume', 'ressemblent-ils', 'allez.']  0
+['Les', 'essayèrent', "d'infrastructure", 'garons', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'de', 'Et', 'la', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'vérrouillés,', 'de', 'de', 'tués']  2.676273960012055e-232
+['Quid', 'parlons-nous', 'ressemblent-ils', 'micro-algues']  0
+['Mais', 'barons', 'que', 'que', 'que', 'que', 'que', 'que', 'que', ':', ':', ':', ':', 'de', 'de', 'chirurgie', 'de', 'de', '?', 'Et', 'la', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '?']  6.255127520274054e-232
+['Nous', 'avons', 'a', 'pas', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Et', 'la', 'nous', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de', 'de', 'de', 'de', 'chirurgie', 'de', 'hanche.']  9.475293539507031e-232
+['Et', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'pas', 'pas', 'pas', '<speaker>Amy', 'Forbes</speaker>']  5.897808755184371e-232
+['Je', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Les', 'y', 'a', 'de', 'de', 'de']  1.8047214064961165e-233
+['Les', "l'Homo", 'erectus', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  1.1640469867513693e-231
+['<title>David', 'Sagmeister', ':', 'des', 'de', 'de', 'de']  8.609930560759975e-234
+['Et', 'la', 'a', 'stupides,', 'Ai-je', 'Ai-je', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<title>Mikko', 'Hypponen:', ':', 'de', "j'entendis", 'Ai-je', 'de', 'de', 'et', 'de', 'de', 'de', 'qui', 'qui', 'de', 'de', 'de', 'de', '<keywords>talks,', 'String', 'theory,', 'état,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  8.972141065609098e-232
+['Et', 'je', 'que', 'que', 'que', 'que', 'de', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Et', 'nous', 'nous', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'de', 'de', 'de', 'de', '?', '?', 'Et', 'la', 'que', 'de', 'de', 'de', 'de', 'de', 'n’est-il', 'récupéré', 'récupéré', 'de', 'de', 'Journal', 'Journal', 'de', 'de', 'de']  7.690076942257604e-232
+['Et', 'je', 'vous', 'pas', 'que', 'je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'pas', '?']  0
+['<speaker>Dong', 'fixent', 'de']  1.5578164998595456e-238
+['Comment', 'Kalman,', 'le', "d'investissement", 'illustrée</title>']  0
+['<title>Maira', 'Kalman,', 'des', 'micro-algues']  0
+['<title>Graham', 'Hill', ':', ':', 'de', 'de', 'drones', 'chronique</title>']  7.660094121879403e-234
+['Et', 'que', 'que', 'coupes', 'de']  6.721009613135804e-234
+['Et', 'je', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<title>David', 'Dunham-Jones', ':', 'Rénover', 'le', 'banlieues</title>']  8.429920845193718e-232
+['Quid']  0
+['<keywords>talks,', 'charter', 'serveur', 'disaster', 'p...', 'que', 'global', 'global', 'de', 'de']  1.356948438300725e-234
+['Je', 'comment', 'que']  0
+['Et', 'je', 'que', 'que', 'que', 'que', 'de', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'Et', 'nous', 'a', 'arrêtions', 'de', 'de', 'de', 'débattre', 'débattre', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'de', 'de', 'de', '<speaker>Michael', 'Rhim']  1.3450687826425774e-232
+['<translator']  0
+['Je', 'je', 'je', 'vous', 'je', 'je', 'que', 'que', 'que', 'que', 'de']  4.834033101735445e-232
+['Je', 'je', 'que', 'que', 'vous', 'que', 'que']  6.810391110664905e-157
+['<title>Micheal', 'Pollan', ':', 'les', 'de', 'de', 'de', 'de', 'plante</title>']  0
+["Qu'est-ce", 'Kalman,', ':']  0
+['Et', 'la', 'de', 'de', 'de', 'de', 'messageries', 'de', 'de', 'de', 'de', 'de', 'Coca-Cola</title>']  7.878954151537587e-233
+['La', 'que', ':', ':', ':', 'vœu', 'trahi', 'Prix', 'Prix', 'Prix', 'de', 'et', 'et', 'et', 'de', 'analysés']  2.5116481676171603e-233
+['<title>Andreas', "d'homme", ':', ':', 'succinte', 'Stephen', 'de', 'de', 'drones']  6.2276149050753e-233
+['<title>Andreas', 'Bittman', ':', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'alimentation</title>']  0
+['Quid', 'Kalman,', '"Kiteflyer\'s']  0
+['<title>Mikko', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'de', 'de', 'de', 'et', 'de', 'de', 'de', 'réagir.</title>']  8.972141065609098e-232
+['La', "d'homme", 'les', 'le', 'de', 'de', 'de', 'de', 'de']  1.1398530024401238e-232
+['<title>Mikko', 'Hypponen:', ':', 'de', 'de', 'trahi', 'trahi', 'trahi', 'trahi', 'approuvez', 'collectés', 'collectés', 'la', 'de', 'de', 'analysés', 'hanche.']  1.2142472523530513e-232
+['<title>Maira', 'Kalman,', 'le', 'de', 'illustrée</title>', 'illustrée</title>']  3.431319184874181e-234
+['Quid']  0
+['<title>Maira', 'Kalman,', ':', 'Rénover', 'illustrée</title>']  0
+['<title>Maira', 'Kalman,', '+', 'illustrée</title>']  0
+['Les', 'nous', 'a', 'de', 'de', 'de', 'de', 'et', 'de', 'de', 'et', 'de', 'de']  2.183537057897955e-233
+['Et', 'la', 'a', 'de', 'de', 'de', 'trahi', 'et', 'et', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Très', ':', 'êtres', '?']  1.0244914152188952e-231
+['<keywords>talks,', 'Africa,', ':', 'stupides,', 'rétrospectivement,', 'rétrospectivement,', 'de', 'de', 'de', 'de', 'de', 'de', 'Verrouillage', 'Majuscules?"', 'Majuscules?"', 'Parfait.']  0
+['Faire', "l'amour."]  0
+['<keywords>talks,', 'TED', 'avons,', 'malchance,', 'ramenait', 'ramenait', "l'aéroport,", "l'aéroport,", 'pensions,', 'pensions,', 'veux?"', 'enfant?"', 'enfant?"', '<translator', 'Marks</speaker>']  0
+['<keywords>talks,', 'culture,', ':', 'global', 'global', 'issues,', 'issues,']  0
+['<title>Jennifer', 'Killingsworth:', 'Lee', 'proportion', 'de', 'de', 'de', 'de', 'recouverte', 'Tso</title>']  0
+['Et', 'fait-elle', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de', 'de', 'de', '<speaker>Jae', '!']  8.319100378795605e-232
+['Et', 'nous', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'contact,', 'contact,', 'contact,', 'de', 'de', 'de', '<title>Mark', 'Shaw', ':', 'le', 'de', 'de']  2.033432539837155e-155
+['<title>Amy', ':', ':', 'de', 'de', 'de', 'la']  2.8620838443578447e-234
+['<title>Don', 'Bittman', ':', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de', 'heureux</title>']  2.3975785063467198e-232
+['Et', 'nous', 'a', 'arrêtions', 'de', 'à', 'de', 'débattre', 'nous', 'nous', 'nous', 'nous', 'nous', 'et', 'de', 'de', 'de', 'de', 'Et', 'la', 'de', 'les', 'de', 'de', 'de', 'de', 'de', 'vérrouillés,', 'de', 'de']  5.302090310471755e-232
+['Et', 'la', 'dîtes-vous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Coca-Cola</title>']  3.59890983988861e-232
+['Comment', ':', ':', 'de', 'de', 'de', "d'immortalité", 'messageries', 'de', 'de', 'de', 'cloud']  9.492032596160594e-233
+['Leslie', 'Chang', 'des']  0
+['Je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de']  0
+['Je', 'je', 'que', 'que', 'que', 'que', 'que', 'que', 'dénouement', 'que', 'que', 'que', 'que', 'de', 'de']  4.94660716462899e-232
+['Vous', 'que', 'que', 'pas', 'de', 'que', 'que', 'pas', 'de', '?']  2.2287357007065595e-232
+['Comment', ':', 'Laches.']  0
+['Et', 'que', 'que', 'pas', 'pas', 'de', 'France?"']  7.338895124640601e-233
+['<title>Mikko', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'la', 'de', 'la', 'de', 'de', 'de']  8.660292157856052e-232
+['Comment', 'Steel', 'Lee', 'de', 'de', 'de', 'façonne']  1.7485856847061088e-232
+['<title>Brian', 'Greene', ':', 'Libérer', 'ancestrale', 'de', 'de', 'de', 'de', 'de', '?</title>']  8.156437715885318e-233
+['Les', 'ont', 'des', 'les', 'de', 'de']  1.1119863481654692e-236
+["Qu'est-ce", 'Kalman,', 'ressembleraient', 'de', 'de', 'Rica?']  8.088200202498789e-233
+['<title>Maira', 'Kalman,', ':', 'Rénover', 'illustrée</title>']  0
+['Je', 'je', 'je', 'vous', 'que', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'je', 'que', 'que', 'que', 'que', 'que', 'de', 'Bip', 'Bip', "Qu'en", 'Paravicini', 'and', 'King?']  0
+['Nous', 'avons', 'des', 'de', 'de', 'de']  3.797378902621205e-234
+['Mais', 'ne', 'le', 'le', 'graphistes.']  0
+['<title>Le', 'Hypponen:', ':', 'JR', 'vœu', 'trahi', 'trahi', 'Prix', 'Prix', 'nous', 'de', 'de', 'de', 'de', 'de']  0
+['Est-ce', ':', ':', ':', 'Meetup,', 'Meetup,', 'de', 'de', 'et', 'et', 'de', 'de', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de']  1.1070900996592687e-231
+['Et', 'a', 'le', 'coupes', 'de', 'mesurent-ils']  8.34076112986429e-232
+["Qu'en", 'survivre?', 'des']  1.3017285428067626e-233
+['Les', 'Tulley', '68%', "m'enlever", 'annuel', 'de', 'de', 'de', 'de', 'de', 'CO2?']  3.0742515548702525e-232
+['<title>Mikko', 'Hypponen:', 'nous', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'la', 'la', 'et', 'et', 'et', 'et', 'analysés', 'analysés', 'analysés', '<speaker>Jenna', 'McKean</speaker>']  1.7277505311584283e-156
+['Comment']  0
+['Quid', 'Kaplan', 'des']  0
+['Je', 'je', 'que', 'que', 'de', 'que', 'de', 'de', 'de']  2.0936013443654968e-232
+['Et', 'nous', 'que', 'de', 'de', 'de', ':', ':', ':', 'que', 'de', 'de', 'de']  5.390763376891056e-232
+['<title>Nate', 'Silver', ':', 'JR', 'Biohacking', 'comportementales', 'comportementales', 'la', 'affecte-t-elle', 'affecte-t-elle', 'affecte-t-elle', 'filtres"', 'heureux</title>']  0
+['Et', 'que', 'que', 'pas', 'grands-parents', 'de', 'de']  9.932114503370317e-234
+['Je', 'je', ':', ':', 'rétrospectivement,', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'grimace']  4.718778512719974e-234
+['<title>Mikko', 'Hypponen:', 'a', 'les', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'de', 'de', 'la', 'de', 'de', 'de', 'de', 'Beijing']  8.614911585158347e-232
+['Il', 'y', 'a', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<title>Jennifer', 'Steel', 'Lee', 'disaster', 'de', 'de', 'de', 'ouvrières']  0
+['Et', 'je', 'vous', 'vous', 'vous', 'vous', 'que', 'que', 'que', 'vous', 'vous', 'vous', 'vous', 'vous', 'que', 'que', 'pas', 'pas', 'pas', 'pas', '<speaker>Eric', 'Whitacre</speaker>']  1.2936909206184996e-232
+['Et', 'a', 'ressemblent-ils', 'sucrée?']  0
+['Les', 'Pollan', 'les', 'les', 'de', 'de', 'de']  0
+['<title>Mikko', 'Hypponen:', ':', 'soucie', 'de', 'de', 'de', 'de', 'de', 'la', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'de', 'de', 'de']  8.510469113101058e-232
+['<title>Mikko', 'Hypponen:', 'nous', 'TED', 'Ai-je', 'Ai-je', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'chirurgie', 'de', 'de', 'Comment', 'Kaplan', 'new']  0
+['<title>David', 'Dyson', ':', 'des', 'de', 'de', 'de']  0
+['<title>Danny', 'Hillis', ':', 'de', 'de', 'publient', 'de', 'et', 'et', 'de', 'et', 'et', 'de', 'de', 'de']  3.891320104241957e-232
+['Et', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  9.782851220031659e-232
+['<keywords>talks,', 'String', 'theory,', 'nous', 'TED', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<speaker>Michael', '!']  0
+['Nous', 'Dyson', ':', 'pas', 'de', 'de', 'de', 'ville</title>']  0
+['Nous', 'avons', 'a', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'collectés', 'collectés', 'collectés', 'et', 'la', 'de', 'analysés', 'analysés', 'peints']  0
+['Les', 'ont', 'des', 'les', 'de', 'de', 'de', 'de']  0
+['La', 'y', 'a', 'de', 'quinzaine', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<keywords>talks,', 'TED', 'Brain', ':', 'TED', 'TED', 'TED', 'et', 'et', 'et', 'et', 'de', 'de']  0
+['<title>Jonathan', 'Trent', ':', 'Chorale', 'Virtuelle', 'de']  0
+['<title>Mikko', 'Hypponen:', 'a', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'de', '<speaker>Eric', 'Rhim']  8.510469113101058e-232
+['<title>Doris', 'guérison', 'Goodwin', 'de', 'de', 'de', 'Prix', 'et', 'et', 'et', 'et', 'et', 'de', 'fois...', 'présidents</title>']  9.672820642694636e-233
+['<title>Mikko', 'Hypponen:', ':', 'de', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'collectés', 'collectés', 'collectés', 'la', 'la', 'de', 'de', 'réagir.</title>', 'réagir.</title>', '<keywords>talks,']  7.414923117542429e-232
+['Et', 'je', 'que', 'seringues', 'de', 'de', 'sacrifier?']  1.802612376976279e-232
+['Comment', 'étape:', 'des', "j'obtiens?", 'nait.', 'Youpi']  0
+['Et', 'nous', 'a', 'pas', 'de', 'de']  8.396161215621529e-232
+['Comment', 'pourquoi', 'que', 'de']  1.3577841712062768e-232
+['<title>Mikko', 'Hypponen:', 'nous', 'nous', 'Ai-je', 'Ai-je', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  2.5583580010620976e-232
+['Les', 'les', 'de', 'des', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de', 'de']  0
+['Les', 'Dyson', ':', 'les', 'de', 'de', 'de', 'de']  8.235377291091144e-233
+['<title>Mark', 'Stone:', ':', 'les', 'fictions', 'de', 'villes</title>']  3.80860988180399e-234
+['Et', 'la', 'nous', 'de', 'de', 'de', 'Loony', 'Tunes', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<title>Micheal', 'Pollan', ':', 'les', 'de', 'de', 'de', 'de', 'plante</title>']  7.992219124248642e-232
+['<translator']  0
+['Et', 'la', 'a', 'de', 'de', 'Ai-je', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<keywords>talks,', 'TED', 'Conference,', ':', ':', ':', 'de', 'récolte', 'de']  8.06798322521923e-232
+['Mais', 'ne', ':', 'pas', 'que', 'que', 'que', 'de', 'de', 'de', 'de', '?', '?']  0
+['Nous', 'Tulley', ':', 'les', 'de', 'de', 'de', 'de', 'de', 'vieillir</title>']  0
+['La', 'ne', ':', 'pas', 'pas', 'de', 'de', 'de']  0
+['Et', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  2.804431972089049e-232
+['Comment', 'une', 'dîtes-vous', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Je', 'je', 'vous', 'vous', 'vous', 'vous', 'vous', 'dénouement', 'dénouement', 'que', 'que', 'que', 'atteindre,', 'grimace', 'grimace']  1.1008876702055895e-231
+['<title>Janet', 'Hypponen:', ':', 'JR', 'trahi', 'trahi', 'trahi', 'trahi', 'trahi', 'approuvez', 'collectés', 'collectés', 'collectés', 'et', 'la', 'de', 'analysés', 'analysés', '<keywords>talks,', 'Killingsworth:', 'Lee', 'de', 'de', 'de', 'de', 'de', 'de', 'Tso</title>']  1.6807798017605283e-155
+['Comment', ':', 'que', 'que', 'de', 'de', 'de']  1.5017168120302944e-233
+['Et', ':', '"Bien,', ':', ':', '"Pourquoi', 'de', 'de']  0
+['Je', 'je', ':', '"Bien,', ':', 'que', 'que', 'que', 'de']  0
+['Comment', 'Voyez-vous', 'dîtes-vous', 'Comment', 'de', 'de', 'de', 'V', 'et', 'et', 'de', 'de', 'de']  0
+['Et', 'la', 'nous', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'Comment', ':', 'de', 'de', 'de']  7.673870691289002e-232
+['Est-ce', 'barons', 'a', 'de', 'de', 'publient', 'de', 'de', 'et', ':', 'qui', 'qui', 'qui', 'qui', 'chirurgie', 'de', 'de', 'hanche.']  3.200273542479366e-235
+['Et', 'je', 'vous', 'vous', 'vous', 'vous', 'que', 'que', 'que', 'de', 'de', 'de', 'que', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'Très', ':', 'faisant.', '?']  8.231055179516831e-232
+['<title>Mikko', 'Hypponen:', 'les', 'les', 'vœu', 'vœu', 'trahi', 'trahi', 'trahi', 'et', 'et', 'et', 'et', 'et', 'et', 'de', 'analysés', 'réagir.</title>', '<talkid>655</talkid>']  3.4361153269877216e-232
+['<title>Mikko', 'Hypponen:', ':', "j'entendis", "j'entendis", 'Ai-je', 'de', 'supplier', 'supplier', 'de', 'de', 'de', 'de', 'de', 'Ramu.', 'chirurgie', 'de', 'peux-tu', 'hanche.', 'BF', ':', ':', 'de', 'de']  0
+['Il', 'nous', 'a', 'de', 'chirurgicale', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'de', 'Pourquoi', 'Hill', ':', ':', 'de', 'de', 'de', 'de', 'départ?', '?']  7.544641259221007e-232
+['Comment', 'Lomborg', ':', ':', 'de', 'de', 'de', 'de']  0
+['Il', 'que', 'a', 'soucie', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'de', 'de', 'Comment', "Lauder's", 'new', 'traffic']  8.06798322521923e-232
+['Je', 'je', 'vous', 'que', 'que', 'de', 'de', 'de']  8.473097626861383e-235
+['Et', 'la', 'la', 'état,', 'de', 'de', 'de', 'et', 'la', 'la', 'de', 'de', 'chirurgie', 'chirurgie', 'chirurgie', 'hanche.']  6.326330461690661e-232
+['Et', 'que', 'nous', 'de', 'de', 'de', 'de', 'de', 'vérrouillés,', 'vérrouillés,', 'vérrouillés,', 'de', 'de', 'tués']  7.601743498890168e-232
+['Nous', 'Bostrom', ':', 'les', 'de', 'de', 'de', 'de', 'de', 'de', 'pensées.</title>']  3.06833686003434e-232
+['Mais', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'de', 'de', 'de', '<title>Andreas', 'Bittman', ':', 'de', 'de', 'de', 'de', 'de', 'de', 'données</title>']  9.257324954728539e-232
+['Et', 'nous', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '?']  1.1200407237786664e-231
+['<title>Mikko', 'Hypponen:', 'Comment', 'que', ':', ':', ':', ':', ':', ':', ':', ':', ':', 'que', 'que', 'que', 'de', 'de']  0
+['<title>Mikko', 'Hypponen:', 'Comment', 'JR', 'vœu', 'trahi', 'trahi', 'Prix', 'Prix', 'Prix', 'nous', 'nous', 'nous', 'de', 'de', 'de']  0
+['<title>Mikko', 'que', 'a', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'de', 'de', 'et', 'et', 'et', 'et', 'et', 'de', 'de', 'de', 'Certains', ':', ':', 'de', 'de', 'de', "d'immortalité", 'la', 'la', 'de', 'de']  9.181748633447778e-232
+['Nous', 'avons', 'a', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de', 'de', 'et', 'et', 'et', 'de', 'de', 'de', 'de']  8.726094729337945e-232
+['Et', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'que', 'pas', 'pas', 'pas', 'pas', 'pas', 'Comment', 'le', 'des']  9.689041594391036e-232
+['<title>Mikko', 'Hypponen:', 'nous', 'de', 'de', 'trahi', 'trahi', 'nous', 'nous', 'nous', 'nous', 'nous', 'de', 'de', 'de']  0
+['<title>Mikko', 'Besser', 'les', 'les', 'TED', 'trahi', 'trahi', 'trahi', 'approuvez', 'la', 'la', 'des', 'des', 'et', 'et', 'de', 'de', 'réagir.</title>']  1.101141269369846e-231
+['Il', 'il', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  1.0832677820940877e-231
+['<title>Mikko', 'Hypponen:', 'nous', 'nous', 'de', 'nous', 'trahi', 'et', 'et', 'et', 'et', 'et', 'et', 'et', 'chirurgie', 'de', 'de', 'Qui', "l'art?"]  8.726094729337945e-232
+['Je', 'je', 'vous', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '<talkid>1112</talkid>']  9.740327718582174e-156
+['<title>Mark', 'Dyson', ':', 'des', 'de', 'de', 'de']  8.609930560759975e-234
+['Que', 'Dyson', ':', 'pas', 'de', 'de']  0
+['<title>Jennifer', 'Hill', 'Lee', 'de', 'de', 'de', 'de', 'de']  0
+['<title>Le', 'Odedra', ':', 'JR', 'vœu', 'trahi', 'trahi', 'Prix', 'Prix', 'Prix', 'et', 'et', 'et', 'de', 'analysés']  8.660292157856052e-232
+['<title>Andreas', 'Steel', 'Lee', 'propos', 'de', 'de', 'façonne']  2.0794305374444988e-232
+['Merci', 'beaucoup.']  0
+['<translator']  0
+['Et', 'la', 'a', 'état,', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', "C'est", 'une', 'le', 'de', 'la']  7.35388853095685e-232
+['Et', 'étape:', '"Était-il', 'fuites', 'nait.', 'danse?"']  0
+['Mais', 'que', ':', ':', 'que', ':', ':', ':', ':', 'nous', 'de', 'de', 'de', 'de']  6.239891046456309e-233
+['Est-ce', 'que', 'nous', 'nous', 'que', 'que', 'de', 'de', 'de', 'qui', 'qui', 'qui', 'qui', 'qui', 'qui', 'qui', 'que', 'de', 'de', 'de', 'de', 'Et', 'la', 'les', 'de', 'de', 'de', 'de']  0
+['Je', 'je', 'que', 'que', ':', ':', ':', ':', 'que', 'que', 'que', 'de', 'récréation']  0
+['<title>Danny', 'Hypponen:', ':', ':', ':', ':', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['Et', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  9.134374972545899e-232
+['Il', 'nous', 'a', 'de', 'de', 'de', 'de', 'que', 'que', 'que', 'que', 'de', 'de']  1.1409851298103347e-231
+['Les', 'y', 'a', 'le', 'de', 'de']  0
+['Vous', 'que', "l'herbe", 'les', 'de', 'de', 'ancêtres?']  8.974678565327572e-234
+['Il', 'a', 'a', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'la', 'de', 'de', 'de', 'de', 'de', 'analysés', 'hanche.', 'Comment', 'Leakey', ':', 'de', 'de', 'de', 'de', 'de', 'la']  9.257324954728539e-232
+['Et', 'vous', 'vous', 'que', 'ce', 'vous', 'vous']  0
+['Goûtez', '!', '!']  0
+['<title>Amy', ':', ':', 'de', 'de', 'de']  0
+['Quid', 'mangez-vous?']  0
+['Comment', 'Seung:', 'que', 'de']  1.890603630434861e-235
+['<talkid>1095</talkid>']  0
+['Et', 'la', 'nous', 'état,', 'Ai-je', 'Ai-je', 'Ai-je', 'Ai-je', 'de', 'de', 'de', 'de', 'de', 'de', 'exagérées', 'exagérées', 'exagérées', 'de', 'Et', 'que', 'nous', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  7.244248269687037e-232
+['Comment']  0
+['<speaker>Rachelle']  0
+['Comment']  0
+['<speaker>Bill', 'Davenhall</speaker>']  0
+['<speaker>Taryn', 'Gbowee</speaker>']  0
+['<title>Brian', 'Greene', ':', ':', 'Biohacking', 'la', 'comportementales', 'la', 'la', 'de', 'de', 'faire.</title>']  2.0094633163760027e-232
+['Comment', 'comment', 'fait-on']  0
+['Nous', 'avons', 'pas', 'pas', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  0
+['<speaker>Beeban', 'Kidron</speaker>']  0
+['Et', 'que', 'que', 'pas', 'pas', 'de', 'de']  4.900008468089985e-232
+['<title>Andreas', 'Raptopoulos:', 'Routes', 'bloquées', 'adoptez', 'adoptez', 'souhaits', 'horribles']  0
+['Et', 'nous', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de', '?']  0
+['Les', 'ne', 'élévation', 'pas', 'de', 'de', 'de', 'de', 'de']  1.692841243110689e-232
+['<title>Mark', 'Sissay', ':', 'les', 'de', 'de', 'contagieux</title>']  2.729857791638066e-233
+['<keywords>talks,', 'TED', 'Conference,', ':', 'ancestrale', 'peuvent-elles', 'peuvent-elles', 'peuvent-elles', 'peuvent-elles', 'facture', '?</title>', '?</title>']  0
+['BF', ':', ':', 'de', 'de']  0
+['BF', ':', ':', 'de', 'de', 'de', 'la']  4.753148692240233e-232
+['Chaque', 'est', 'est', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  3.533053276237269e-157
+['Comment', 'Internet,', ':', 'seringues', 'de', 'de']  3.51511731805256e-233
+['<speaker>JoAnn']  0
+['<title>Maira', 'Kalman,', 'Miracle', '"Kiteflyer\'s', 'illustrée</title>']  0
+['<title>Amy', ':', ':', 'Vendre', 'de', 'de', 'matin</title>']  1.5416001654420978e-233
+['Est-ce', 'Krane:', 'les', 'les', 'de', 'de']  1.5276636891178488e-233
+['Comment', 'Dolby', 'chante']  0
+['Entendez-vous', 'mangez-vous?']  0
+['Très', ':', 'On']  0
+['<title>Amy', ':', ':', 'de', 'de', 'de', 'la', 'avocat,']  3.5168555826665276e-232
+['A', 'Fankhauser:', 'des', 'de', 'de', 'de', 'de', 'la']  1.8824371430730713e-232
+['Pourquoi', 'Kalman,', 'surgiraient?', 'de', 'nourriture?']  3.3289378538532914e-233
+['La', 'Bittman', ':', 'de', 'de', 'de', 'croiront', 'de', 'de', 'de', 'de', '?']  3.2127248477865483e-233
+[':', ':', ':', ':', 'de', 'de']  0
+['Comment']  0
+['Et', 'Hill', 'que', 'seringues', 'de', 'de', 'France?"']  0
+['BF', ':', ':', 'de', 'de']  2.0138900446751835e-232
+['Les', "s'appelaient", 'des', 'des', 'graphistes.']  0
+['BF', ':', ':', 'de', 'de']  2.0138900446751835e-232
+['Alors', 'la', 'les', 'de', 'de', 'de']  0
+['Vous', 'le', 'le', 'le', 'le', 'que', 'que', 'le', 'le', 'de', 'de']  0
+['Vous', 'ne', 'est', 'le', 'de', 'de', 'de']  0
+['Et', 'la', ':', 'stupides,', 'rétrospectivement,', 'rétrospectivement,', '«Que', 'de', 'de', 'que', 'que', 'de', 'de', '<translator', 'Rama</speaker>']  0
+['Alors', 'Krane:', '"Était-il', 'seringues', 'de', 'de']  5.4497864282429205e-235
+['<title>Nate', 'String', 'Comment', 'Comment', 'vœu', 'vœu', 'trahi', 'trahi', 'de', 'de', 'de', 'de', 'de', 'de', 'de']  3.891320104241957e-232
+['Nous', 'ont', 'les', 'de', 'de', 'de']  4.180202524697567e-233
+['Comment', 'une', 'que', 'que', 'de', 'de', 'de', 'de', 'de', 'de', 'de', 'et', 'de', 'de']  9.418382295637229e-232
+['Comment', "Lauder's", 'procurent-ils', "j'obtiens?"]  0
+['Les', 'Tulley', ':', 'de', 'de', 'de', 'de', 'de', 'vieillir</title>']  4.986684185455999e-233
+["Qu'en", 'invente', 'de']  7.998096593393233e-239
+['Les', 'Bostrom', 'les', "m'enlever", 'de', 'de', 'de', 'de']  5.393272712782269e-233
+['Les', 'les', 'de', 'de', 'de', 'de', 'de', 'et', 'et', 'et['BF', ':', ':', 'de', 'de']  0
+['Vous', 'ne', "l'herbe", 'craignent,', 'nouveaux,', 'de', 'pas', 'pas']  0
+['Je', 'je', 'vous', 'vous', 'vous', 'vous', 'vous', 'que', 'que', 'que']  0
